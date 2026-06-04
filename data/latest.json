@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T00:56:08-04:00",
+  "generated_at": "2026-06-04T14:31:23-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
@@ -10,7 +10,7 @@
     "day0": "Jeudi 4 juin",
     "day1": "Ven. 5",
     "day2": "Sam. 6",
-    "iso": "2026-06-04T00:56:08-04:00"
+    "iso": "2026-06-04T14:31:23-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,9 +19,9 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 26,
-    "humidity": 72,
-    "wind": 31,
+    "temp": 27,
+    "humidity": 71,
+    "wind": 32,
     "wind_dir": "SE",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
@@ -31,46 +31,46 @@
       {
         "label": "Aujourd'hui — Jeudi 4 juin",
         "tmax": 27,
-        "tmin": 25,
+        "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 34,
-        "rain": 45
+        "wind": 36,
+        "rain": 25
       },
       {
         "label": "Ven. 5",
         "tmax": 27,
-        "tmin": 23,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 32,
-        "rain": 53
-      },
-      {
-        "label": "Sam. 6",
-        "tmax": 27,
         "tmin": 25,
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 32,
-        "rain": 52
+        "rain": 61
+      },
+      {
+        "label": "Sam. 6",
+        "tmax": 27,
+        "tmin": 26,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 34,
+        "rain": 57
       }
     ]
   },
   "marine": {
-    "wave": 1.6,
-    "period": 7,
+    "wave": 1.7,
+    "period": 6,
     "direction": "E",
     "water": 28,
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 13,
+    "iqa": 24,
     "label": "Bon",
-    "pm25": 12.3,
-    "pm10": 22.8,
+    "pm25": 17.3,
+    "pm10": 43.9,
     "ozone": 53.0,
-    "dust": 7.0,
+    "dust": 35.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

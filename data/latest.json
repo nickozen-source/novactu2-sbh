@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T09:54:46-04:00",
+  "generated_at": "2026-06-05T13:28:49-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
@@ -10,7 +10,7 @@
     "day0": "Vendredi 5 juin",
     "day1": "Sam. 6",
     "day2": "Dim. 7",
-    "iso": "2026-06-05T09:54:46-04:00"
+    "iso": "2026-06-05T13:28:49-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -21,7 +21,7 @@
   "weather": {
     "temp": 27,
     "humidity": 78,
-    "wind": 31,
+    "wind": 24,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
@@ -65,12 +65,12 @@
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 12,
+    "iqa": 7,
     "label": "Bon",
-    "pm25": 10.9,
-    "pm10": 21.2,
-    "ozone": 51.0,
-    "dust": 9.0,
+    "pm25": 7.3,
+    "pm10": 13.6,
+    "ozone": 50.0,
+    "dust": 4.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

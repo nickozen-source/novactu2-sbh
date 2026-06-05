@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T14:31:23-04:00",
+  "generated_at": "2026-06-04T22:45:52-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
@@ -10,7 +10,7 @@
     "day0": "Jeudi 4 juin",
     "day1": "Ven. 5",
     "day2": "Sam. 6",
-    "iso": "2026-06-04T14:31:23-04:00"
+    "iso": "2026-06-04T22:45:52-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,9 +20,9 @@
   ],
   "weather": {
     "temp": 27,
-    "humidity": 71,
+    "humidity": 72,
     "wind": 32,
-    "wind_dir": "SE",
+    "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
     "sunrise": "05:35",
@@ -30,7 +30,7 @@
     "days": [
       {
         "label": "Aujourd'hui — Jeudi 4 juin",
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
@@ -40,10 +40,10 @@
       {
         "label": "Ven. 5",
         "tmax": 27,
-        "tmin": 25,
+        "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 32,
+        "wind": 30,
         "rain": 61
       },
       {
@@ -52,25 +52,25 @@
         "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 34,
+        "wind": 32,
         "rain": 57
       }
     ]
   },
   "marine": {
     "wave": 1.7,
-    "period": 6,
+    "period": 7,
     "direction": "E",
     "water": 28,
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 24,
-    "label": "Bon",
-    "pm25": 17.3,
-    "pm10": 43.9,
-    "ozone": 53.0,
-    "dust": 35.0,
+    "iqa": 25,
+    "label": "Modéré",
+    "pm25": 19.4,
+    "pm10": 46.0,
+    "ozone": 51.0,
+    "dust": 33.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

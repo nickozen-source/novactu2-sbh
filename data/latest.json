@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-04T22:45:52-04:00",
+  "generated_at": "2026-06-05T09:54:46-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 4 juin 2026",
-    "short": "4 juin 2026",
-    "day0": "Jeudi 4 juin",
-    "day1": "Ven. 5",
-    "day2": "Sam. 6",
-    "iso": "2026-06-04T22:45:52-04:00"
+    "long": "Vendredi 5 juin 2026",
+    "short": "5 juin 2026",
+    "day0": "Vendredi 5 juin",
+    "day1": "Sam. 6",
+    "day2": "Dim. 7",
+    "iso": "2026-06-05T09:54:46-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,8 +20,8 @@
   ],
   "weather": {
     "temp": 27,
-    "humidity": 72,
-    "wind": 32,
+    "humidity": 78,
+    "wind": 31,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
@@ -29,22 +29,13 @@
     "sunset": "18:44",
     "days": [
       {
-        "label": "Aujourd'hui — Jeudi 4 juin",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 36,
-        "rain": 25
-      },
-      {
-        "label": "Ven. 5",
+        "label": "Aujourd'hui — Vendredi 5 juin",
         "tmax": 27,
         "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 30,
-        "rain": 61
+        "wind": 32,
+        "rain": 29
       },
       {
         "label": "Sam. 6",
@@ -53,7 +44,16 @@
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 32,
-        "rain": 57
+        "rain": 43
+      },
+      {
+        "label": "Dim. 7",
+        "tmax": 27,
+        "tmin": 26,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 33,
+        "rain": 15
       }
     ]
   },
@@ -65,12 +65,12 @@
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 25,
-    "label": "Modéré",
-    "pm25": 19.4,
-    "pm10": 46.0,
+    "iqa": 12,
+    "label": "Bon",
+    "pm25": 10.9,
+    "pm10": 21.2,
     "ozone": 51.0,
-    "dust": 33.0,
+    "dust": 9.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

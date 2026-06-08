@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T00:27:31-04:00",
+  "generated_at": "2026-06-08T00:53:45-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
@@ -10,7 +10,7 @@
     "day0": "Lundi 8 juin",
     "day1": "Mar. 9",
     "day2": "Mer. 10",
-    "iso": "2026-06-08T00:27:31-04:00"
+    "iso": "2026-06-08T00:53:45-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -80,19 +80,5 @@
     "Lorient": "modere",
     "Gouverneur": "propre",
     "Colombier": "impacte"
-  },
-  "ferries": {
-    "date": "2026-06-08",
-    "voyager": [
-      "07:00",
-      "10:15",
-      "17:30"
-    ],
-    "great_bay": [
-      "08:30",
-      "11:00",
-      "18:45"
-    ],
-    "notes": "Horaires indicatifs départ Gustavia. Tarifs ignorés."
   }
 }

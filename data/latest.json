@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T00:57:28-04:00",
+  "generated_at": "2026-06-08T01:06:06-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
@@ -10,7 +10,7 @@
     "day0": "Lundi 8 juin",
     "day1": "Mar. 9",
     "day2": "Mer. 10",
-    "iso": "2026-06-08T00:57:28-04:00"
+    "iso": "2026-06-08T01:06:06-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -29,7 +29,9 @@
     "sunset": "18:45",
     "days": [
       {
-        "label": "Aujourd'hui — Lundi 8 juin",
+        "date": "2026-06-08",
+        "label": "Lun. 8",
+        "full_label": "Lundi 8 juin",
         "tmax": 27,
         "tmin": 26,
         "icon": "☁️",
@@ -38,7 +40,9 @@
         "rain": 6
       },
       {
+        "date": "2026-06-09",
         "label": "Mar. 9",
+        "full_label": "Mardi 9 juin",
         "tmax": 27,
         "tmin": 26,
         "icon": "☁️",
@@ -47,7 +51,9 @@
         "rain": 3
       },
       {
+        "date": "2026-06-10",
         "label": "Mer. 10",
+        "full_label": "Mercredi 10 juin",
         "tmax": 27,
         "tmin": 26,
         "icon": "🌦",
@@ -67,10 +73,10 @@
   "air": {
     "iqa": 9,
     "label": "Bon",
-    "pm25": 9.0,
-    "pm10": 15.7,
-    "ozone": 48.0,
-    "dust": 0.0,
+    "pm25": 8.7,
+    "pm10": 15.3,
+    "ozone": 47.0,
+    "dust": 1.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

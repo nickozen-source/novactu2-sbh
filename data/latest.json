@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T01:06:06-04:00",
+  "generated_at": "2026-06-08T14:40:23-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
@@ -10,7 +10,7 @@
     "day0": "Lundi 8 juin",
     "day1": "Mar. 9",
     "day2": "Mer. 10",
-    "iso": "2026-06-08T01:06:06-04:00"
+    "iso": "2026-06-08T14:40:23-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,11 +20,11 @@
   ],
   "weather": {
     "temp": 27,
-    "humidity": 77,
-    "wind": 33,
+    "humidity": 69,
+    "wind": 29,
     "wind_dir": "E",
-    "icon": "☁️",
-    "condition": "Couvert",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
     "sunrise": "05:35",
     "sunset": "18:45",
     "days": [
@@ -37,7 +37,7 @@
         "icon": "☁️",
         "condition": "Couvert",
         "wind": 35,
-        "rain": 6
+        "rain": 3
       },
       {
         "date": "2026-06-09",
@@ -45,10 +45,10 @@
         "full_label": "Mardi 9 juin",
         "tmax": 27,
         "tmin": 26,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 28,
-        "rain": 3
+        "icon": "⛅",
+        "condition": "Partiellement nuageux",
+        "wind": 26,
+        "rain": 4
       },
       {
         "date": "2026-06-10",
@@ -58,25 +58,25 @@
         "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 28,
-        "rain": 8
+        "wind": 27,
+        "rain": 25
       }
     ]
   },
   "marine": {
-    "wave": 1.6,
+    "wave": 1.5,
     "period": 6,
     "direction": "E",
     "water": 28,
-    "level": "Intermédiaire / Confirmé"
+    "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 9,
+    "iqa": 11,
     "label": "Bon",
-    "pm25": 8.7,
-    "pm10": 15.3,
-    "ozone": 47.0,
-    "dust": 1.0,
+    "pm25": 11.2,
+    "pm10": 19.3,
+    "ozone": 51.0,
+    "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

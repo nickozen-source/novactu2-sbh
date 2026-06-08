@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T11:14:56-04:00",
+  "generated_at": "2026-06-07T23:20:49-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
@@ -10,32 +10,33 @@
     "day0": "Dimanche 7 juin",
     "day1": "Lun. 8",
     "day2": "Mar. 9",
-    "iso": "2026-06-07T11:14:56-04:00"
+    "iso": "2026-06-07T23:20:49-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
     "Open-Meteo Marine API",
     "Open-Meteo Air Quality API",
-    "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
+    "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable",
+    "Voyager schedule manually captured from booking system on 2026-06-07; Great Bay public schedule"
   ],
   "weather": {
     "temp": 27,
     "humidity": 77,
-    "wind": 29,
+    "wind": 32,
     "wind_dir": "E",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "☁️",
+    "condition": "Couvert",
     "sunrise": "05:35",
     "sunset": "18:45",
     "days": [
       {
         "label": "Aujourd'hui — Dimanche 7 juin",
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
+        "icon": "☁️",
+        "condition": "Couvert",
         "wind": 36,
-        "rain": 6
+        "rain": 12
       },
       {
         "label": "Lun. 8",
@@ -43,8 +44,8 @@
         "tmin": 26,
         "icon": "☁️",
         "condition": "Couvert",
-        "wind": 34,
-        "rain": 4
+        "wind": 35,
+        "rain": 2
       },
       {
         "label": "Mar. 9",
@@ -52,8 +53,8 @@
         "tmin": 26,
         "icon": "☁️",
         "condition": "Couvert",
-        "wind": 29,
-        "rain": 3
+        "wind": 28,
+        "rain": 2
       }
     ]
   },
@@ -65,12 +66,12 @@
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 8,
+    "iqa": 9,
     "label": "Bon",
-    "pm25": 8.0,
-    "pm10": 14.3,
-    "ozone": 46.0,
-    "dust": 3.0,
+    "pm25": 8.9,
+    "pm10": 15.5,
+    "ozone": 48.0,
+    "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },
@@ -80,5 +81,29 @@
     "Lorient": "modere",
     "Gouverneur": "propre",
     "Colombier": "impacte"
+  },
+  "ferries": {
+    "voyager": {
+      "name": "Voyager",
+      "route": "Gustavia → Marigot · côté français",
+      "duration": "Durée ~1h · voy12.com",
+      "times": [
+        "07:25",
+        "10:15",
+        "17:30"
+      ],
+      "checkin_minutes": 60
+    },
+    "great_bay": {
+      "name": "Great Bay",
+      "route": "Gustavia → Philipsburg · côté hollandais",
+      "duration": "Durée ~45 min · Philipsburg",
+      "times": [
+        "11:00",
+        "18:45"
+      ],
+      "checkin_minutes": 60
+    },
+    "source_note": "Voyager: capture système réservation du 07/06/2026; Great Bay: planning public. Tarifs ignorés."
   }
 }

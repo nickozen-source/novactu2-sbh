@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T00:53:45-04:00",
+  "generated_at": "2026-06-08T00:57:28-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
@@ -10,7 +10,7 @@
     "day0": "Lundi 8 juin",
     "day1": "Mar. 9",
     "day2": "Mer. 10",
-    "iso": "2026-06-08T00:53:45-04:00"
+    "iso": "2026-06-08T00:57:28-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",

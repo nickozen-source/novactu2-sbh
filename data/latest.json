@@ -1,28 +1,27 @@
 {
-  "generated_at": "2026-06-07T23:20:49-04:00",
+  "generated_at": "2026-06-08T00:27:31-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Dimanche 7 juin 2026",
-    "short": "7 juin 2026",
-    "day0": "Dimanche 7 juin",
-    "day1": "Lun. 8",
-    "day2": "Mar. 9",
-    "iso": "2026-06-07T23:20:49-04:00"
+    "long": "Lundi 8 juin 2026",
+    "short": "8 juin 2026",
+    "day0": "Lundi 8 juin",
+    "day1": "Mar. 9",
+    "day2": "Mer. 10",
+    "iso": "2026-06-08T00:27:31-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
     "Open-Meteo Marine API",
     "Open-Meteo Air Quality API",
-    "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable",
-    "Voyager schedule manually captured from booking system on 2026-06-07; Great Bay public schedule"
+    "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
     "temp": 27,
     "humidity": 77,
-    "wind": 32,
+    "wind": 33,
     "wind_dir": "E",
     "icon": "☁️",
     "condition": "Couvert",
@@ -30,22 +29,13 @@
     "sunset": "18:45",
     "days": [
       {
-        "label": "Aujourd'hui — Dimanche 7 juin",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 36,
-        "rain": 12
-      },
-      {
-        "label": "Lun. 8",
+        "label": "Aujourd'hui — Lundi 8 juin",
         "tmax": 27,
         "tmin": 26,
         "icon": "☁️",
         "condition": "Couvert",
         "wind": 35,
-        "rain": 2
+        "rain": 6
       },
       {
         "label": "Mar. 9",
@@ -54,7 +44,16 @@
         "icon": "☁️",
         "condition": "Couvert",
         "wind": 28,
-        "rain": 2
+        "rain": 3
+      },
+      {
+        "label": "Mer. 10",
+        "tmax": 27,
+        "tmin": 26,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 28,
+        "rain": 8
       }
     ]
   },
@@ -68,8 +67,8 @@
   "air": {
     "iqa": 9,
     "label": "Bon",
-    "pm25": 8.9,
-    "pm10": 15.5,
+    "pm25": 9.0,
+    "pm10": 15.7,
     "ozone": 48.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
@@ -83,27 +82,17 @@
     "Colombier": "impacte"
   },
   "ferries": {
-    "voyager": {
-      "name": "Voyager",
-      "route": "Gustavia → Marigot · côté français",
-      "duration": "Durée ~1h · voy12.com",
-      "times": [
-        "07:25",
-        "10:15",
-        "17:30"
-      ],
-      "checkin_minutes": 60
-    },
-    "great_bay": {
-      "name": "Great Bay",
-      "route": "Gustavia → Philipsburg · côté hollandais",
-      "duration": "Durée ~45 min · Philipsburg",
-      "times": [
-        "11:00",
-        "18:45"
-      ],
-      "checkin_minutes": 60
-    },
-    "source_note": "Voyager: capture système réservation du 07/06/2026; Great Bay: planning public. Tarifs ignorés."
+    "date": "2026-06-08",
+    "voyager": [
+      "07:00",
+      "10:15",
+      "17:30"
+    ],
+    "great_bay": [
+      "08:30",
+      "11:00",
+      "18:45"
+    ],
+    "notes": "Horaires indicatifs départ Gustavia. Tarifs ignorés."
   }
 }

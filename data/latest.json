@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-11T15:44:53-04:00",
+  "generated_at": "2026-06-12T13:55:25-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 11 juin 2026",
-    "short": "11 juin 2026",
-    "day0": "Jeudi 11 juin",
-    "day1": "Ven. 12",
-    "day2": "Sam. 13",
-    "iso": "2026-06-11T15:44:53-04:00"
+    "long": "Vendredi 12 juin 2026",
+    "short": "12 juin 2026",
+    "day0": "Vendredi 12 juin",
+    "day1": "Sam. 13",
+    "day2": "Dim. 14",
+    "iso": "2026-06-12T13:55:25-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,25 +20,14 @@
   ],
   "weather": {
     "temp": 27,
-    "humidity": 77,
-    "wind": 26,
-    "wind_dir": "SE",
+    "humidity": 76,
+    "wind": 25,
+    "wind_dir": "E",
     "icon": "☁️",
     "condition": "Couvert",
     "sunrise": "05:35",
     "sunset": "18:46",
     "days": [
-      {
-        "date": "2026-06-11",
-        "label": "Jeu. 11",
-        "full_label": "Jeudi 11 juin",
-        "tmax": 27,
-        "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 33,
-        "rain": 43
-      },
       {
         "date": "2026-06-12",
         "label": "Ven. 12",
@@ -47,8 +36,8 @@
         "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 36,
-        "rain": 8
+        "wind": 31,
+        "rain": 6
       },
       {
         "date": "2026-06-13",
@@ -58,8 +47,19 @@
         "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 35,
-        "rain": 6
+        "wind": 37,
+        "rain": 2
+      },
+      {
+        "date": "2026-06-14",
+        "label": "Dim. 14",
+        "full_label": "Dimanche 14 juin",
+        "tmax": 27,
+        "tmin": 26,
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 40,
+        "rain": 14
       }
     ]
   },
@@ -71,12 +71,12 @@
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 20,
+    "iqa": 16,
     "label": "Bon",
-    "pm25": 13.3,
-    "pm10": 33.1,
-    "ozone": 44.0,
-    "dust": 29.0,
+    "pm25": 12.3,
+    "pm10": 28.8,
+    "ozone": 41.0,
+    "dust": 21.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

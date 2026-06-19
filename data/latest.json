@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-18T14:38:50-04:00",
+  "generated_at": "2026-06-19T13:30:55-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 18 juin 2026",
-    "short": "18 juin 2026",
-    "day0": "Jeudi 18 juin",
-    "day1": "Ven. 19",
-    "day2": "Sam. 20",
-    "iso": "2026-06-18T14:38:50-04:00"
+    "long": "Vendredi 19 juin 2026",
+    "short": "19 juin 2026",
+    "day0": "Vendredi 19 juin",
+    "day1": "Sam. 20",
+    "day2": "Dim. 21",
+    "iso": "2026-06-19T13:30:55-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -21,7 +21,7 @@
   "weather": {
     "temp": 27,
     "humidity": 78,
-    "wind": 33,
+    "wind": 32,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
@@ -29,25 +29,14 @@
     "sunset": "18:48",
     "days": [
       {
-        "date": "2026-06-18",
-        "label": "Jeu. 18",
-        "full_label": "Jeudi 18 juin",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 38,
-        "rain": 6
-      },
-      {
         "date": "2026-06-19",
         "label": "Ven. 19",
         "full_label": "Vendredi 19 juin",
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 27,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 37,
+        "icon": "⛅",
+        "condition": "Partiellement nuageux",
+        "wind": 36,
         "rain": 2
       },
       {
@@ -55,11 +44,22 @@
         "label": "Sam. 20",
         "full_label": "Samedi 20 juin",
         "tmax": 27,
-        "tmin": 25,
+        "tmin": 26,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 36,
-        "rain": 41
+        "wind": 37,
+        "rain": 35
+      },
+      {
+        "date": "2026-06-21",
+        "label": "Dim. 21",
+        "full_label": "Dimanche 21 juin",
+        "tmax": 27,
+        "tmin": 26,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 37,
+        "rain": 42
       }
     ]
   },
@@ -71,12 +71,12 @@
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 16,
-    "label": "Bon",
-    "pm25": 12.2,
-    "pm10": 29.1,
-    "ozone": 38.0,
-    "dust": 19.0,
+    "iqa": 27,
+    "label": "Modéré",
+    "pm25": 16.9,
+    "pm10": 45.9,
+    "ozone": 40.0,
+    "dust": 38.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

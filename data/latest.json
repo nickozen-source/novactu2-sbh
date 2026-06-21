@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-20T11:56:20-04:00",
+  "generated_at": "2026-06-21T12:18:56-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Samedi 20 juin 2026",
-    "short": "20 juin 2026",
-    "day0": "Samedi 20 juin",
-    "day1": "Dim. 21",
-    "day2": "Lun. 22",
-    "iso": "2026-06-20T11:56:20-04:00"
+    "long": "Dimanche 21 juin 2026",
+    "short": "21 juin 2026",
+    "day0": "Dimanche 21 juin",
+    "day1": "Lun. 22",
+    "day2": "Mar. 23",
+    "iso": "2026-06-21T12:18:56-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,62 +20,62 @@
   ],
   "weather": {
     "temp": 27,
-    "humidity": 73,
-    "wind": 29,
+    "humidity": 77,
+    "wind": 34,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
-    "sunrise": "05:36",
-    "sunset": "18:48",
+    "sunrise": "05:37",
+    "sunset": "18:49",
     "days": [
-      {
-        "date": "2026-06-20",
-        "label": "Sam. 20",
-        "full_label": "Samedi 20 juin",
-        "tmax": 27,
-        "tmin": 26,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 40,
-        "rain": 49
-      },
       {
         "date": "2026-06-21",
         "label": "Dim. 21",
         "full_label": "Dimanche 21 juin",
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 26,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 40,
-        "rain": 50
+        "wind": 39,
+        "rain": 85
       },
       {
         "date": "2026-06-22",
         "label": "Lun. 22",
         "full_label": "Lundi 22 juin",
+        "tmax": 27,
+        "tmin": 26,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 41,
+        "rain": 6
+      },
+      {
+        "date": "2026-06-23",
+        "label": "Mar. 23",
+        "full_label": "Mardi 23 juin",
         "tmax": 28,
-        "tmin": 27,
-        "icon": "☁️",
-        "condition": "Couvert",
+        "tmin": 26,
+        "icon": "⛈",
+        "condition": "Orage",
         "wind": 39,
-        "rain": 8
+        "rain": 48
       }
     ]
   },
   "marine": {
-    "wave": 1.7,
+    "wave": 1.8,
     "period": 6,
     "direction": "E",
     "water": 28,
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 21,
+    "iqa": 17,
     "label": "Bon",
-    "pm25": 16.6,
-    "pm10": 38.2,
-    "ozone": 48.0,
+    "pm25": 13.0,
+    "pm10": 30.6,
+    "ozone": 36.0,
     "dust": 24.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

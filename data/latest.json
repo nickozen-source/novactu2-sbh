@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-25T08:23:08-04:00",
+  "generated_at": "2026-06-26T08:12:36-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 25 juin 2026",
-    "short": "25 juin 2026",
-    "day0": "Jeudi 25 juin",
-    "day1": "Ven. 26",
-    "day2": "Sam. 27",
-    "iso": "2026-06-25T08:23:08-04:00"
+    "long": "Vendredi 26 juin 2026",
+    "short": "26 juin 2026",
+    "day0": "Vendredi 26 juin",
+    "day1": "Sam. 27",
+    "day2": "Dim. 28",
+    "iso": "2026-06-26T08:12:36-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,63 +20,63 @@
   ],
   "weather": {
     "temp": 27,
-    "humidity": 76,
-    "wind": 37,
+    "humidity": 72,
+    "wind": 31,
     "wind_dir": "E",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "☁️",
+    "condition": "Couvert",
     "sunrise": "05:38",
-    "sunset": "18:49",
+    "sunset": "18:50",
     "days": [
-      {
-        "date": "2026-06-25",
-        "label": "Jeu. 25",
-        "full_label": "Jeudi 25 juin",
-        "tmax": 27,
-        "tmin": 27,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 37,
-        "rain": 0
-      },
       {
         "date": "2026-06-26",
         "label": "Ven. 26",
         "full_label": "Vendredi 26 juin",
-        "tmax": 27,
-        "tmin": 25,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 34,
-        "rain": 61
+        "tmax": 28,
+        "tmin": 26,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 35,
+        "rain": 59
       },
       {
         "date": "2026-06-27",
         "label": "Sam. 27",
         "full_label": "Samedi 27 juin",
         "tmax": 27,
-        "tmin": 26,
+        "tmin": 24,
         "icon": "🌦",
-        "condition": "Pluie possible",
+        "condition": "Averses éparses",
         "wind": 32,
-        "rain": 65
+        "rain": 55
+      },
+      {
+        "date": "2026-06-28",
+        "label": "Dim. 28",
+        "full_label": "Dimanche 28 juin",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 32,
+        "rain": 35
       }
     ]
   },
   "marine": {
-    "wave": 1.8,
+    "wave": 1.6,
     "period": 6,
     "direction": "E",
     "water": 28,
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 24,
+    "iqa": 13,
     "label": "Bon",
-    "pm25": 15.6,
-    "pm10": 40.2,
-    "ozone": 43.0,
-    "dust": 34.0,
+    "pm25": 12.9,
+    "pm10": 22.1,
+    "ozone": 45.0,
+    "dust": 1.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

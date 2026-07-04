@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-03T08:10:05-04:00",
+  "generated_at": "2026-07-04T07:32:17-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Vendredi 3 juillet 2026",
-    "short": "3 juillet 2026",
-    "day0": "Vendredi 3 juillet",
-    "day1": "Sam. 4",
-    "day2": "Dim. 5",
-    "iso": "2026-07-03T08:10:05-04:00"
+    "long": "Samedi 4 juillet 2026",
+    "short": "4 juillet 2026",
+    "day0": "Samedi 4 juillet",
+    "day1": "Dim. 5",
+    "day2": "Lun. 6",
+    "iso": "2026-07-04T07:32:17-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,26 +19,15 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 27,
-    "humidity": 78,
-    "wind": 31,
+    "temp": 28,
+    "humidity": 73,
+    "wind": 36,
     "wind_dir": "E",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "☁️",
+    "condition": "Couvert",
     "sunrise": "05:40",
     "sunset": "18:50",
     "days": [
-      {
-        "date": "2026-07-03",
-        "label": "Ven. 3",
-        "full_label": "Vendredi 3 juillet",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 35,
-        "rain": 39
-      },
       {
         "date": "2026-07-04",
         "label": "Sam. 4",
@@ -48,7 +37,7 @@
         "icon": "☁️",
         "condition": "Couvert",
         "wind": 36,
-        "rain": 2
+        "rain": 4
       },
       {
         "date": "2026-07-05",
@@ -56,10 +45,21 @@
         "full_label": "Dimanche 5 juillet",
         "tmax": 28,
         "tmin": 27,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 36,
-        "rain": 9
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 38,
+        "rain": 8
+      },
+      {
+        "date": "2026-07-06",
+        "label": "Lun. 6",
+        "full_label": "Lundi 6 juillet",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 38,
+        "rain": 17
       }
     ]
   },
@@ -71,14 +71,14 @@
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 16,
-    "label": "Bon",
-    "pm25": 11.8,
-    "pm10": 28.7,
-    "ozone": 43.0,
-    "dust": 20.0,
-    "haze": "Aucun épisode détecté",
-    "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
+    "iqa": 51,
+    "label": "Mauvais",
+    "pm25": 30.2,
+    "pm10": 79.2,
+    "ozone": 38.0,
+    "dust": 73.0,
+    "haze": "Épisode modéré détecté",
+    "advice": "Personnes sensibles : limitez l'exposition prolongée."
   },
   "sargassum": {
     "Grand-Cul-de-Sac": "impacte",

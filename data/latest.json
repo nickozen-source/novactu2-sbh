@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-04T07:32:17-04:00",
+  "generated_at": "2026-07-05T07:36:18-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Samedi 4 juillet 2026",
-    "short": "4 juillet 2026",
-    "day0": "Samedi 4 juillet",
-    "day1": "Dim. 5",
-    "day2": "Lun. 6",
-    "iso": "2026-07-04T07:32:17-04:00"
+    "long": "Dimanche 5 juillet 2026",
+    "short": "5 juillet 2026",
+    "day0": "Dimanche 5 juillet",
+    "day1": "Lun. 6",
+    "day2": "Mar. 7",
+    "iso": "2026-07-05T07:36:18-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,26 +19,15 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 28,
-    "humidity": 73,
-    "wind": 36,
+    "temp": 27,
+    "humidity": 81,
+    "wind": 33,
     "wind_dir": "E",
     "icon": "☁️",
     "condition": "Couvert",
     "sunrise": "05:40",
     "sunset": "18:50",
     "days": [
-      {
-        "date": "2026-07-04",
-        "label": "Sam. 4",
-        "full_label": "Samedi 4 juillet",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 36,
-        "rain": 4
-      },
       {
         "date": "2026-07-05",
         "label": "Dim. 5",
@@ -48,7 +37,7 @@
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 38,
-        "rain": 8
+        "rain": 2
       },
       {
         "date": "2026-07-06",
@@ -58,27 +47,38 @@
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 38,
-        "rain": 17
+        "wind": 40,
+        "rain": 8
+      },
+      {
+        "date": "2026-07-07",
+        "label": "Mar. 7",
+        "full_label": "Mardi 7 juillet",
+        "tmax": 28,
+        "tmin": 26,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 40,
+        "rain": 37
       }
     ]
   },
   "marine": {
-    "wave": 1.6,
+    "wave": 1.8,
     "period": 6,
     "direction": "E",
     "water": 28,
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 51,
-    "label": "Mauvais",
-    "pm25": 30.2,
-    "pm10": 79.2,
-    "ozone": 38.0,
-    "dust": 73.0,
-    "haze": "Épisode modéré détecté",
-    "advice": "Personnes sensibles : limitez l'exposition prolongée."
+    "iqa": 27,
+    "label": "Modéré",
+    "pm25": 20.7,
+    "pm10": 49.1,
+    "ozone": 46.0,
+    "dust": 36.0,
+    "haze": "Aucun épisode détecté",
+    "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },
   "sargassum": {
     "Grand-Cul-de-Sac": "impacte",

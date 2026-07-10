@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-08T07:47:40-04:00",
+  "generated_at": "2026-07-10T08:26:25-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mercredi 8 juillet 2026",
-    "short": "8 juillet 2026",
-    "day0": "Mercredi 8 juillet",
-    "day1": "Jeu. 9",
-    "day2": "Ven. 10",
-    "iso": "2026-07-08T07:47:40-04:00"
+    "long": "Vendredi 10 juillet 2026",
+    "short": "10 juillet 2026",
+    "day0": "Vendredi 10 juillet",
+    "day1": "Sam. 11",
+    "day2": "Dim. 12",
+    "iso": "2026-07-10T08:26:25-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,37 +19,15 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 27,
-    "humidity": 81,
+    "temp": 28,
+    "humidity": 75,
     "wind": 37,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
-    "sunrise": "05:41",
+    "sunrise": "05:42",
     "sunset": "18:50",
     "days": [
-      {
-        "date": "2026-07-08",
-        "label": "Mer. 8",
-        "full_label": "Mercredi 8 juillet",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 41,
-        "rain": 44
-      },
-      {
-        "date": "2026-07-09",
-        "label": "Jeu. 9",
-        "full_label": "Jeudi 9 juillet",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 40,
-        "rain": 12
-      },
       {
         "date": "2026-07-10",
         "label": "Ven. 10",
@@ -58,27 +36,49 @@
         "tmin": 27,
         "icon": "☁️",
         "condition": "Couvert",
-        "wind": 41,
-        "rain": 2
+        "wind": 40,
+        "rain": 0
+      },
+      {
+        "date": "2026-07-11",
+        "label": "Sam. 11",
+        "full_label": "Samedi 11 juillet",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 40,
+        "rain": 14
+      },
+      {
+        "date": "2026-07-12",
+        "label": "Dim. 12",
+        "full_label": "Dimanche 12 juillet",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 38,
+        "rain": 24
       }
     ]
   },
   "marine": {
-    "wave": 2.0,
+    "wave": 2.1,
     "period": 6,
     "direction": "E",
     "water": 28,
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 22,
-    "label": "Bon",
-    "pm25": 12.7,
-    "pm10": 33.2,
-    "ozone": 49.0,
-    "dust": 32.0,
-    "haze": "Aucun épisode détecté",
-    "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
+    "iqa": 64,
+    "label": "Mauvais",
+    "pm25": 36.9,
+    "pm10": 97.8,
+    "ozone": 38.0,
+    "dust": 92.0,
+    "haze": "Épisode intense détecté",
+    "advice": "Évitez les efforts prolongés. Personnes sensibles : restez à l'intérieur."
   },
   "sargassum": {
     "Grand-Cul-de-Sac": "impacte",

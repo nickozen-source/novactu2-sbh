@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-12T07:11:42-04:00",
+  "generated_at": "2026-07-13T08:32:29-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Dimanche 12 juillet 2026",
-    "short": "12 juillet 2026",
-    "day0": "Dimanche 12 juillet",
-    "day1": "Lun. 13",
-    "day2": "Mar. 14",
-    "iso": "2026-07-12T07:11:42-04:00"
+    "long": "Lundi 13 juillet 2026",
+    "short": "13 juillet 2026",
+    "day0": "Lundi 13 juillet",
+    "day1": "Mar. 14",
+    "day2": "Mer. 15",
+    "iso": "2026-07-13T08:32:29-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,25 +20,14 @@
   ],
   "weather": {
     "temp": 27,
-    "humidity": 80,
-    "wind": 34,
+    "humidity": 79,
+    "wind": 30,
     "wind_dir": "E",
-    "icon": "☁️",
-    "condition": "Couvert",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
     "sunrise": "05:43",
     "sunset": "18:50",
     "days": [
-      {
-        "date": "2026-07-12",
-        "label": "Dim. 12",
-        "full_label": "Dimanche 12 juillet",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 36,
-        "rain": 29
-      },
       {
         "date": "2026-07-13",
         "label": "Lun. 13",
@@ -47,38 +36,49 @@
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 35,
-        "rain": 47
+        "wind": 34,
+        "rain": 8
       },
       {
         "date": "2026-07-14",
         "label": "Mar. 14",
         "full_label": "Mardi 14 juillet",
         "tmax": 28,
+        "tmin": 26,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 33,
+        "rain": 10
+      },
+      {
+        "date": "2026-07-15",
+        "label": "Mer. 15",
+        "full_label": "Mercredi 15 juillet",
+        "tmax": 27,
         "tmin": 27,
-        "icon": "⛅",
-        "condition": "Partiellement nuageux",
-        "wind": 31,
-        "rain": 8
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 33,
+        "rain": 14
       }
     ]
   },
   "marine": {
-    "wave": 1.8,
+    "wave": 1.5,
     "period": 6,
     "direction": "E",
-    "water": 28,
-    "level": "Intermédiaire / Confirmé"
+    "water": 29,
+    "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 16,
-    "label": "Bon",
-    "pm25": 12.5,
-    "pm10": 28.7,
-    "ozone": 35.0,
-    "dust": 20.0,
-    "haze": "Aucun épisode détecté",
-    "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
+    "iqa": 36,
+    "label": "Modéré",
+    "pm25": 16.2,
+    "pm10": 49.5,
+    "ozone": 38.0,
+    "dust": 52.0,
+    "haze": "Épisode modéré détecté",
+    "advice": "Personnes sensibles : limitez l'exposition prolongée."
   },
   "sargassum": {
     "Grand-Cul-de-Sac": "impacte",

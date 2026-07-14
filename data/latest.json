@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-13T08:32:29-04:00",
+  "generated_at": "2026-07-14T07:26:14-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Lundi 13 juillet 2026",
-    "short": "13 juillet 2026",
-    "day0": "Lundi 13 juillet",
-    "day1": "Mar. 14",
-    "day2": "Mer. 15",
-    "iso": "2026-07-13T08:32:29-04:00"
+    "long": "Mardi 14 juillet 2026",
+    "short": "14 juillet 2026",
+    "day0": "Mardi 14 juillet",
+    "day1": "Mer. 15",
+    "day2": "Jeu. 16",
+    "iso": "2026-07-14T07:26:14-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -21,62 +21,62 @@
   "weather": {
     "temp": 27,
     "humidity": 79,
-    "wind": 30,
+    "wind": 27,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
-    "sunrise": "05:43",
+    "sunrise": "05:44",
     "sunset": "18:50",
     "days": [
-      {
-        "date": "2026-07-13",
-        "label": "Lun. 13",
-        "full_label": "Lundi 13 juillet",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 34,
-        "rain": 8
-      },
       {
         "date": "2026-07-14",
         "label": "Mar. 14",
         "full_label": "Mardi 14 juillet",
         "tmax": 28,
-        "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 33,
-        "rain": 10
+        "tmin": 27,
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 35,
+        "rain": 18
       },
       {
         "date": "2026-07-15",
         "label": "Mer. 15",
         "full_label": "Mercredi 15 juillet",
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 33,
-        "rain": 14
+        "rain": 20
+      },
+      {
+        "date": "2026-07-16",
+        "label": "Jeu. 16",
+        "full_label": "Jeudi 16 juillet",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 31,
+        "rain": 41
       }
     ]
   },
   "marine": {
-    "wave": 1.5,
+    "wave": 1.4,
     "period": 6,
     "direction": "E",
     "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 36,
+    "iqa": 43,
     "label": "Modéré",
-    "pm25": 16.2,
-    "pm10": 49.5,
-    "ozone": 38.0,
-    "dust": 52.0,
+    "pm25": 22.8,
+    "pm10": 67.1,
+    "ozone": 40.0,
+    "dust": 62.0,
     "haze": "Épisode modéré détecté",
     "advice": "Personnes sensibles : limitez l'exposition prolongée."
   },

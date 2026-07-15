@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-14T07:26:14-04:00",
+  "generated_at": "2026-07-15T07:36:26-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mardi 14 juillet 2026",
-    "short": "14 juillet 2026",
-    "day0": "Mardi 14 juillet",
-    "day1": "Mer. 15",
-    "day2": "Jeu. 16",
-    "iso": "2026-07-14T07:26:14-04:00"
+    "long": "Mercredi 15 juillet 2026",
+    "short": "15 juillet 2026",
+    "day0": "Mercredi 15 juillet",
+    "day1": "Jeu. 16",
+    "day2": "Ven. 17",
+    "iso": "2026-07-15T07:36:26-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,35 +20,24 @@
   ],
   "weather": {
     "temp": 27,
-    "humidity": 79,
+    "humidity": 77,
     "wind": 27,
     "wind_dir": "E",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "☁️",
+    "condition": "Couvert",
     "sunrise": "05:44",
     "sunset": "18:50",
     "days": [
-      {
-        "date": "2026-07-14",
-        "label": "Mar. 14",
-        "full_label": "Mardi 14 juillet",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 35,
-        "rain": 18
-      },
       {
         "date": "2026-07-15",
         "label": "Mer. 15",
         "full_label": "Mercredi 15 juillet",
         "tmax": 28,
         "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 33,
-        "rain": 20
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 32,
+        "rain": 12
       },
       {
         "date": "2026-07-16",
@@ -59,7 +48,18 @@
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 31,
-        "rain": 41
+        "rain": 70
+      },
+      {
+        "date": "2026-07-17",
+        "label": "Ven. 17",
+        "full_label": "Vendredi 17 juillet",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 34,
+        "rain": 8
       }
     ]
   },
@@ -71,14 +71,14 @@
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 43,
+    "iqa": 25,
     "label": "Modéré",
-    "pm25": 22.8,
-    "pm10": 67.1,
-    "ozone": 40.0,
-    "dust": 62.0,
-    "haze": "Épisode modéré détecté",
-    "advice": "Personnes sensibles : limitez l'exposition prolongée."
+    "pm25": 14.3,
+    "pm10": 40.5,
+    "ozone": 36.0,
+    "dust": 36.0,
+    "haze": "Aucun épisode détecté",
+    "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },
   "sargassum": {
     "Grand-Cul-de-Sac": "impacte",

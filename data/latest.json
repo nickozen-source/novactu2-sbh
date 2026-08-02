@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-01T07:17:02-04:00",
+  "generated_at": "2026-08-02T07:17:08-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Samedi 1 août 2026",
-    "short": "1 août 2026",
-    "day0": "Samedi 1 août",
-    "day1": "Dim. 2",
-    "day2": "Lun. 3",
-    "iso": "2026-08-01T07:17:02-04:00"
+    "long": "Dimanche 2 août 2026",
+    "short": "2 août 2026",
+    "day0": "Dimanche 2 août",
+    "day1": "Lun. 3",
+    "day2": "Mar. 4",
+    "iso": "2026-08-02T07:17:08-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,36 +19,25 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 27,
-    "humidity": 80,
-    "wind": 31,
+    "temp": 28,
+    "humidity": 75,
+    "wind": 33,
     "wind_dir": "E",
-    "icon": "🌦",
-    "condition": "Pluie possible",
-    "sunrise": "05:49",
-    "sunset": "18:45",
+    "icon": "☁️",
+    "condition": "Couvert",
+    "sunrise": "05:50",
+    "sunset": "18:44",
     "days": [
-      {
-        "date": "2026-08-01",
-        "label": "Sam. 1",
-        "full_label": "Samedi 1 août",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 34,
-        "rain": 71
-      },
       {
         "date": "2026-08-02",
         "label": "Dim. 2",
         "full_label": "Dimanche 2 août",
         "tmax": 28,
-        "tmin": 26,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 33,
-        "rain": 54
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 35,
+        "rain": 61
       },
       {
         "date": "2026-08-03",
@@ -56,27 +45,38 @@
         "full_label": "Lundi 3 août",
         "tmax": 28,
         "tmin": 27,
-        "icon": "⛅",
-        "condition": "Partiellement nuageux",
-        "wind": 30,
-        "rain": 8
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 29,
+        "rain": 4
+      },
+      {
+        "date": "2026-08-04",
+        "label": "Mar. 4",
+        "full_label": "Mardi 4 août",
+        "tmax": 28,
+        "tmin": 26,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 25,
+        "rain": 41
       }
     ]
   },
   "marine": {
-    "wave": 1.7,
+    "wave": 1.5,
     "period": 6,
     "direction": "E",
     "water": 29,
-    "level": "Intermédiaire / Confirmé"
+    "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 12,
+    "iqa": 10,
     "label": "Bon",
-    "pm25": 11.7,
-    "pm10": 21.2,
-    "ozone": 37.0,
-    "dust": 3.0,
+    "pm25": 9.7,
+    "pm10": 16.9,
+    "ozone": 36.0,
+    "dust": 1.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

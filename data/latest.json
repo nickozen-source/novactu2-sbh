@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-04T08:02:38-04:00",
+  "generated_at": "2026-08-05T08:00:12-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mardi 4 août 2026",
-    "short": "4 août 2026",
-    "day0": "Mardi 4 août",
-    "day1": "Mer. 5",
-    "day2": "Jeu. 6",
-    "iso": "2026-08-04T08:02:38-04:00"
+    "long": "Mercredi 5 août 2026",
+    "short": "5 août 2026",
+    "day0": "Mercredi 5 août",
+    "day1": "Jeu. 6",
+    "day2": "Ven. 7",
+    "iso": "2026-08-05T08:00:12-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,63 +19,63 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 27,
-    "humidity": 84,
-    "wind": 21,
-    "wind_dir": "E",
-    "icon": "☁️",
-    "condition": "Couvert",
-    "sunrise": "05:50",
+    "temp": 28,
+    "humidity": 72,
+    "wind": 25,
+    "wind_dir": "SE",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
+    "sunrise": "05:51",
     "sunset": "18:43",
     "days": [
-      {
-        "date": "2026-08-04",
-        "label": "Mar. 4",
-        "full_label": "Mardi 4 août",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 26,
-        "rain": 51
-      },
       {
         "date": "2026-08-05",
         "label": "Mer. 5",
         "full_label": "Mercredi 5 août",
         "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 30,
-        "rain": 24
+        "tmin": 28,
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 28,
+        "rain": 32
       },
       {
         "date": "2026-08-06",
         "label": "Jeu. 6",
         "full_label": "Jeudi 6 août",
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 33,
-        "rain": 9
+        "wind": 31,
+        "rain": 7
+      },
+      {
+        "date": "2026-08-07",
+        "label": "Ven. 7",
+        "full_label": "Vendredi 7 août",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 34,
+        "rain": 29
       }
     ]
   },
   "marine": {
-    "wave": 1.0,
-    "period": 6,
+    "wave": 1.1,
+    "period": 5,
     "direction": "E",
     "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 4,
+    "iqa": 5,
     "label": "Bon",
-    "pm25": 4.5,
-    "pm10": 8.0,
-    "ozone": 31.0,
+    "pm25": 5.0,
+    "pm10": 8.6,
+    "ozone": 33.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

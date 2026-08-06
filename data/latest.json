@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-05T08:00:12-04:00",
+  "generated_at": "2026-08-06T08:03:25-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mercredi 5 août 2026",
-    "short": "5 août 2026",
-    "day0": "Mercredi 5 août",
-    "day1": "Jeu. 6",
-    "day2": "Ven. 7",
-    "iso": "2026-08-05T08:00:12-04:00"
+    "long": "Jeudi 6 août 2026",
+    "short": "6 août 2026",
+    "day0": "Jeudi 6 août",
+    "day1": "Ven. 7",
+    "day2": "Sam. 8",
+    "iso": "2026-08-06T08:03:25-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,35 +20,24 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 72,
-    "wind": 25,
-    "wind_dir": "SE",
+    "humidity": 75,
+    "wind": 28,
+    "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
     "sunrise": "05:51",
-    "sunset": "18:43",
+    "sunset": "18:42",
     "days": [
-      {
-        "date": "2026-08-05",
-        "label": "Mer. 5",
-        "full_label": "Mercredi 5 août",
-        "tmax": 28,
-        "tmin": 28,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 28,
-        "rain": 32
-      },
       {
         "date": "2026-08-06",
         "label": "Jeu. 6",
         "full_label": "Jeudi 6 août",
         "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 31,
-        "rain": 7
+        "tmin": 28,
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 30,
+        "rain": 6
       },
       {
         "date": "2026-08-07",
@@ -58,23 +47,34 @@
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 34,
-        "rain": 29
+        "wind": 35,
+        "rain": 14
+      },
+      {
+        "date": "2026-08-08",
+        "label": "Sam. 8",
+        "full_label": "Samedi 8 août",
+        "tmax": 28,
+        "tmin": 28,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 38,
+        "rain": 35
       }
     ]
   },
   "marine": {
-    "wave": 1.1,
-    "period": 5,
+    "wave": 1.2,
+    "period": 6,
     "direction": "E",
     "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 5,
+    "iqa": 6,
     "label": "Bon",
-    "pm25": 5.0,
-    "pm10": 8.6,
+    "pm25": 5.8,
+    "pm10": 10.1,
     "ozone": 33.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",

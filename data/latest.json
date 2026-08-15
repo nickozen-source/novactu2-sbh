@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-14T06:58:18-04:00",
+  "generated_at": "2026-08-15T06:23:32-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Vendredi 14 août 2026",
-    "short": "14 août 2026",
-    "day0": "Vendredi 14 août",
-    "day1": "Sam. 15",
-    "day2": "Dim. 16",
-    "iso": "2026-08-14T06:58:18-04:00"
+    "long": "Samedi 15 août 2026",
+    "short": "15 août 2026",
+    "day0": "Samedi 15 août",
+    "day1": "Dim. 16",
+    "day2": "Lun. 17",
+    "iso": "2026-08-15T06:23:32-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,26 +19,15 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 28,
-    "humidity": 82,
-    "wind": 37,
+    "temp": 27,
+    "humidity": 83,
+    "wind": 50,
     "wind_dir": "E",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "🌦",
+    "condition": "Pluie possible",
     "sunrise": "05:53",
-    "sunset": "18:38",
+    "sunset": "18:37",
     "days": [
-      {
-        "date": "2026-08-14",
-        "label": "Ven. 14",
-        "full_label": "Vendredi 14 août",
-        "tmax": 29,
-        "tmin": 28,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 48,
-        "rain": 18
-      },
       {
         "date": "2026-08-15",
         "label": "Sam. 15",
@@ -47,8 +36,8 @@
         "tmin": 26,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 48,
-        "rain": 87
+        "wind": 52,
+        "rain": 80
       },
       {
         "date": "2026-08-16",
@@ -59,24 +48,35 @@
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 37,
-        "rain": 38
+        "rain": 26
+      },
+      {
+        "date": "2026-08-17",
+        "label": "Lun. 17",
+        "full_label": "Lundi 17 août",
+        "tmax": 28,
+        "tmin": 28,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 33,
+        "rain": 10
       }
     ]
   },
   "marine": {
-    "wave": 2.3,
-    "period": 6,
+    "wave": 3.0,
+    "period": 8,
     "direction": "E",
     "water": 29,
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 21,
+    "iqa": 15,
     "label": "Bon",
-    "pm25": 15.8,
-    "pm10": 34.7,
-    "ozone": 31.0,
-    "dust": 30.0,
+    "pm25": 14.6,
+    "pm10": 27.2,
+    "ozone": 46.0,
+    "dust": 13.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

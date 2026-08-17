@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-16T06:24:37-04:00",
+  "generated_at": "2026-08-17T06:33:12-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Dimanche 16 août 2026",
-    "short": "16 août 2026",
-    "day0": "Dimanche 16 août",
-    "day1": "Lun. 17",
-    "day2": "Mar. 18",
-    "iso": "2026-08-16T06:24:37-04:00"
+    "long": "Lundi 17 août 2026",
+    "short": "17 août 2026",
+    "day0": "Lundi 17 août",
+    "day1": "Mar. 18",
+    "day2": "Mer. 19",
+    "iso": "2026-08-17T06:33:12-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,25 +20,14 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 73,
-    "wind": 36,
+    "humidity": 70,
+    "wind": 28,
     "wind_dir": "E",
-    "icon": "☁️",
-    "condition": "Couvert",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
     "sunrise": "05:54",
-    "sunset": "18:37",
+    "sunset": "18:36",
     "days": [
-      {
-        "date": "2026-08-16",
-        "label": "Dim. 16",
-        "full_label": "Dimanche 16 août",
-        "tmax": 28,
-        "tmin": 28,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 38,
-        "rain": 4
-      },
       {
         "date": "2026-08-17",
         "label": "Lun. 17",
@@ -47,8 +36,8 @@
         "tmin": 28,
         "icon": "⛅",
         "condition": "Partiellement nuageux",
-        "wind": 30,
-        "rain": 6
+        "wind": 33,
+        "rain": 4
       },
       {
         "date": "2026-08-18",
@@ -58,25 +47,36 @@
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 27,
-        "rain": 49
+        "wind": 30,
+        "rain": 41
+      },
+      {
+        "date": "2026-08-19",
+        "label": "Mer. 19",
+        "full_label": "Mercredi 19 août",
+        "tmax": 28,
+        "tmin": 26,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 33,
+        "rain": 37
       }
     ]
   },
   "marine": {
-    "wave": 2.2,
+    "wave": 1.7,
     "period": 7,
     "direction": "E",
     "water": 29,
     "level": "Intermédiaire / Confirmé"
   },
   "air": {
-    "iqa": 21,
+    "iqa": 10,
     "label": "Bon",
-    "pm25": 21.2,
-    "pm10": 35.9,
-    "ozone": 42.0,
-    "dust": 11.0,
+    "pm25": 10.2,
+    "pm10": 18.2,
+    "ozone": 48.0,
+    "dust": 2.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

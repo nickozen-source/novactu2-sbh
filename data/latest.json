@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-19T06:30:07-04:00",
+  "generated_at": "2026-08-20T06:31:41-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mercredi 19 août 2026",
-    "short": "19 août 2026",
-    "day0": "Mercredi 19 août",
-    "day1": "Jeu. 20",
-    "day2": "Ven. 21",
-    "iso": "2026-08-19T06:30:07-04:00"
+    "long": "Jeudi 20 août 2026",
+    "short": "20 août 2026",
+    "day0": "Jeudi 20 août",
+    "day1": "Ven. 21",
+    "day2": "Sam. 22",
+    "iso": "2026-08-20T06:31:41-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,72 +19,72 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 27,
-    "humidity": 88,
-    "wind": 31,
+    "temp": 28,
+    "humidity": 71,
+    "wind": 33,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
     "sunrise": "05:54",
-    "sunset": "18:35",
+    "sunset": "18:34",
     "days": [
-      {
-        "date": "2026-08-19",
-        "label": "Mer. 19",
-        "full_label": "Mercredi 19 août",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 34,
-        "rain": 25
-      },
       {
         "date": "2026-08-20",
         "label": "Jeu. 20",
         "full_label": "Jeudi 20 août",
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 28,
         "icon": "☁️",
         "condition": "Couvert",
         "wind": 35,
-        "rain": 10
+        "rain": 1
       },
       {
         "date": "2026-08-21",
         "label": "Ven. 21",
         "full_label": "Vendredi 21 août",
         "tmax": 28,
-        "tmin": 27,
+        "tmin": 28,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 31,
+        "rain": 16
+      },
+      {
+        "date": "2026-08-22",
+        "label": "Sam. 22",
+        "full_label": "Samedi 22 août",
+        "tmax": 28,
+        "tmin": 28,
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 30,
-        "rain": 31
+        "rain": 24
       }
     ]
   },
   "marine": {
-    "wave": 1.2,
+    "wave": 1.5,
     "period": 6,
     "direction": "E",
     "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 3,
+    "iqa": 18,
     "label": "Bon",
-    "pm25": 2.7,
-    "pm10": 4.9,
-    "ozone": 31.0,
-    "dust": 0.0,
+    "pm25": 12.8,
+    "pm10": 32.8,
+    "ozone": 39.0,
+    "dust": 26.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },
   "sargassum": {
-    "Grand-Cul-de-Sac": "modere",
+    "Grand-Cul-de-Sac": "impacte",
     "Saint-Jean": "modere",
     "Lorient": "modere",
     "Gouverneur": "propre",
-    "Colombier": "propre"
+    "Colombier": "impacte"
   }
 }

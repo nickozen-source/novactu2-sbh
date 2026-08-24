@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-23T06:25:24-04:00",
+  "generated_at": "2026-08-24T06:37:54-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Dimanche 23 août 2026",
-    "short": "23 août 2026",
-    "day0": "Dimanche 23 août",
-    "day1": "Lun. 24",
-    "day2": "Mar. 25",
-    "iso": "2026-08-23T06:25:24-04:00"
+    "long": "Lundi 24 août 2026",
+    "short": "24 août 2026",
+    "day0": "Lundi 24 août",
+    "day1": "Mar. 25",
+    "day2": "Mer. 26",
+    "iso": "2026-08-24T06:37:54-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,64 +19,64 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 26,
-    "humidity": 87,
-    "wind": 27,
+    "temp": 28,
+    "humidity": 78,
+    "wind": 22,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
     "sunrise": "05:55",
-    "sunset": "18:32",
+    "sunset": "18:31",
     "days": [
-      {
-        "date": "2026-08-23",
-        "label": "Dim. 23",
-        "full_label": "Dimanche 23 août",
-        "tmax": 28,
-        "tmin": 25,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 34,
-        "rain": 75
-      },
       {
         "date": "2026-08-24",
         "label": "Lun. 24",
         "full_label": "Lundi 24 août",
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 28,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 33,
-        "rain": 35
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 32,
+        "rain": 22
       },
       {
         "date": "2026-08-25",
         "label": "Mar. 25",
         "full_label": "Mardi 25 août",
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 27,
         "icon": "⛈",
         "condition": "Orage",
+        "wind": 32,
+        "rain": 24
+      },
+      {
+        "date": "2026-08-26",
+        "label": "Mer. 26",
+        "full_label": "Mercredi 26 août",
+        "tmax": 28,
+        "tmin": 28,
+        "icon": "🌦",
+        "condition": "Pluie possible",
         "wind": 34,
-        "rain": 33
+        "rain": 18
       }
     ]
   },
   "marine": {
-    "wave": 1.2,
+    "wave": 1.1,
     "period": 6,
     "direction": "E",
     "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 6,
+    "iqa": 9,
     "label": "Bon",
-    "pm25": 5.6,
-    "pm10": 10.0,
+    "pm25": 7.2,
+    "pm10": 16.8,
     "ozone": 37.0,
-    "dust": 1.0,
+    "dust": 12.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

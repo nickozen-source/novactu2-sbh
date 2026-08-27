@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-26T06:36:31-04:00",
+  "generated_at": "2026-08-27T16:11:19-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mercredi 26 août 2026",
-    "short": "26 août 2026",
-    "day0": "Mercredi 26 août",
-    "day1": "Jeu. 27",
-    "day2": "Ven. 28",
-    "iso": "2026-08-26T06:36:31-04:00"
+    "long": "Jeudi 27 août 2026",
+    "short": "27 août 2026",
+    "day0": "Jeudi 27 août",
+    "day1": "Ven. 28",
+    "day2": "Sam. 29",
+    "iso": "2026-08-27T16:11:19-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,9 +19,9 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 28,
-    "humidity": 75,
-    "wind": 28,
+    "temp": 29,
+    "humidity": 71,
+    "wind": 24,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
@@ -29,54 +29,54 @@
     "sunset": "18:29",
     "days": [
       {
-        "date": "2026-08-26",
-        "label": "Mer. 26",
-        "full_label": "Mercredi 26 août",
-        "tmax": 29,
-        "tmin": 28,
-        "icon": "⛅",
-        "condition": "Partiellement nuageux",
-        "wind": 32,
-        "rain": 6
-      },
-      {
         "date": "2026-08-27",
         "label": "Jeu. 27",
         "full_label": "Jeudi 27 août",
-        "tmax": 28,
-        "tmin": 27,
+        "tmax": 29,
+        "tmin": 28,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 32,
-        "rain": 31
+        "wind": 36,
+        "rain": 47
       },
       {
         "date": "2026-08-28",
         "label": "Ven. 28",
         "full_label": "Vendredi 28 août",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 35,
+        "rain": 78
+      },
+      {
+        "date": "2026-08-29",
+        "label": "Sam. 29",
+        "full_label": "Samedi 29 août",
         "tmax": 29,
-        "tmin": 26,
+        "tmin": 27,
         "icon": "🌦",
-        "condition": "Averses éparses",
-        "wind": 34,
-        "rain": 29
+        "condition": "Pluie possible",
+        "wind": 36,
+        "rain": 45
       }
     ]
   },
   "marine": {
-    "wave": 1.4,
+    "wave": 1.3,
     "period": 7,
     "direction": "E",
     "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 31,
-    "label": "Modéré",
-    "pm25": 18.5,
-    "pm10": 48.9,
-    "ozone": 36.0,
-    "dust": 44.0,
+    "iqa": 8,
+    "label": "Bon",
+    "pm25": 7.8,
+    "pm10": 13.4,
+    "ozone": 30.0,
+    "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

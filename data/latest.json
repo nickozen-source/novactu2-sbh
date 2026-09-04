@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-03T10:12:46-04:00",
+  "generated_at": "2026-09-04T10:03:26-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 3 septembre 2026",
-    "short": "3 septembre 2026",
-    "day0": "Jeudi 3 septembre",
-    "day1": "Ven. 4",
-    "day2": "Sam. 5",
-    "iso": "2026-09-03T10:12:46-04:00"
+    "long": "Vendredi 4 septembre 2026",
+    "short": "4 septembre 2026",
+    "day0": "Vendredi 4 septembre",
+    "day1": "Sam. 5",
+    "day2": "Dim. 6",
+    "iso": "2026-09-04T10:03:26-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,35 +20,24 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 70,
-    "wind": 17,
+    "humidity": 79,
+    "wind": 22,
     "wind_dir": "E",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "☁️",
+    "condition": "Couvert",
     "sunrise": "05:57",
-    "sunset": "18:23",
+    "sunset": "18:22",
     "days": [
-      {
-        "date": "2026-09-03",
-        "label": "Jeu. 3",
-        "full_label": "Jeudi 3 septembre",
-        "tmax": 29,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 24,
-        "rain": 8
-      },
       {
         "date": "2026-09-04",
         "label": "Ven. 4",
         "full_label": "Vendredi 4 septembre",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 28,
-        "rain": 46
+        "tmax": 29,
+        "tmin": 28,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 26,
+        "rain": 49
       },
       {
         "date": "2026-09-05",
@@ -58,25 +47,36 @@
         "tmin": 26,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 26,
-        "rain": 59
+        "wind": 28,
+        "rain": 45
+      },
+      {
+        "date": "2026-09-06",
+        "label": "Dim. 6",
+        "full_label": "Dimanche 6 septembre",
+        "tmax": 29,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 30,
+        "rain": 27
       }
     ]
   },
   "marine": {
-    "wave": 1.0,
-    "period": 7,
+    "wave": 1.1,
+    "period": 6,
     "direction": "E",
-    "water": 30,
+    "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 5,
+    "iqa": 18,
     "label": "Bon",
-    "pm25": 4.6,
-    "pm10": 8.4,
-    "ozone": 40.0,
-    "dust": 2.0,
+    "pm25": 8.8,
+    "pm10": 26.5,
+    "ozone": 39.0,
+    "dust": 25.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

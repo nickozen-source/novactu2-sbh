@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-10T10:07:13-04:00",
+  "generated_at": "2026-09-11T10:06:32-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 10 septembre 2026",
-    "short": "10 septembre 2026",
-    "day0": "Jeudi 10 septembre",
-    "day1": "Ven. 11",
-    "day2": "Sam. 12",
-    "iso": "2026-09-10T10:07:13-04:00"
+    "long": "Vendredi 11 septembre 2026",
+    "short": "11 septembre 2026",
+    "day0": "Vendredi 11 septembre",
+    "day1": "Sam. 12",
+    "day2": "Dim. 13",
+    "iso": "2026-09-11T10:06:32-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,36 +19,25 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 27,
-    "humidity": 82,
-    "wind": 36,
+    "temp": 28,
+    "humidity": 78,
+    "wind": 32,
     "wind_dir": "E",
-    "icon": "🌦",
-    "condition": "Pluie possible",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
     "sunrise": "05:58",
-    "sunset": "18:17",
+    "sunset": "18:16",
     "days": [
-      {
-        "date": "2026-09-10",
-        "label": "Jeu. 10",
-        "full_label": "Jeudi 10 septembre",
-        "tmax": 28,
-        "tmin": 24,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 38,
-        "rain": 78
-      },
       {
         "date": "2026-09-11",
         "label": "Ven. 11",
         "full_label": "Vendredi 11 septembre",
         "tmax": 29,
         "tmin": 28,
-        "icon": "⛅",
-        "condition": "Partiellement nuageux",
-        "wind": 35,
-        "rain": 8
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 32,
+        "rain": 16
       },
       {
         "date": "2026-09-12",
@@ -59,24 +48,35 @@
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 33,
-        "rain": 18
+        "rain": 12
+      },
+      {
+        "date": "2026-09-13",
+        "label": "Dim. 13",
+        "full_label": "Dimanche 13 septembre",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 33,
+        "rain": 28
       }
     ]
   },
   "marine": {
-    "wave": 1.9,
-    "period": 7,
+    "wave": 1.5,
+    "period": 6,
     "direction": "E",
     "water": 29,
-    "level": "Intermédiaire / Confirmé"
+    "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 12,
-    "label": "Bon",
-    "pm25": 9.3,
-    "pm10": 22.0,
-    "ozone": 44.0,
-    "dust": 16.0,
+    "iqa": 26,
+    "label": "Modéré",
+    "pm25": 17.2,
+    "pm10": 44.1,
+    "ozone": 47.0,
+    "dust": 37.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

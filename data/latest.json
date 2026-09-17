@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-16T10:40:58-04:00",
+  "generated_at": "2026-09-17T10:44:37-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mercredi 16 septembre 2026",
-    "short": "16 septembre 2026",
-    "day0": "Mercredi 16 septembre",
-    "day1": "Jeu. 17",
-    "day2": "Ven. 18",
-    "iso": "2026-09-16T10:40:58-04:00"
+    "long": "Jeudi 17 septembre 2026",
+    "short": "17 septembre 2026",
+    "day0": "Jeudi 17 septembre",
+    "day1": "Ven. 18",
+    "day2": "Sam. 19",
+    "iso": "2026-09-17T10:44:37-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,66 +19,66 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 27,
-    "humidity": 82,
-    "wind": 34,
+    "temp": 28,
+    "humidity": 78,
+    "wind": 32,
     "wind_dir": "E",
     "icon": "☁️",
     "condition": "Couvert",
     "sunrise": "05:59",
-    "sunset": "18:12",
+    "sunset": "18:11",
     "days": [
-      {
-        "date": "2026-09-16",
-        "label": "Mer. 16",
-        "full_label": "Mercredi 16 septembre",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 37,
-        "rain": 95
-      },
       {
         "date": "2026-09-17",
         "label": "Jeu. 17",
         "full_label": "Jeudi 17 septembre",
-        "tmax": 28,
-        "tmin": 27,
+        "tmax": 29,
+        "tmin": 28,
         "icon": "⛈",
         "condition": "Orage",
         "wind": 32,
-        "rain": 57
+        "rain": 76
       },
       {
         "date": "2026-09-18",
         "label": "Ven. 18",
         "full_label": "Vendredi 18 septembre",
         "tmax": 28,
-        "tmin": 28,
+        "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 27,
-        "rain": 20
+        "wind": 28,
+        "rain": 18
+      },
+      {
+        "date": "2026-09-19",
+        "label": "Sam. 19",
+        "full_label": "Samedi 19 septembre",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 19,
+        "rain": 29
       }
     ]
   },
   "marine": {
-    "wave": 1.6,
+    "wave": 1.4,
     "period": 6,
     "direction": "E",
     "water": 29,
-    "level": "Intermédiaire / Confirmé"
+    "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 4,
-    "label": "Bon",
-    "pm25": 3.6,
-    "pm10": 7.0,
-    "ozone": 39.0,
-    "dust": 1.0,
-    "haze": "Aucun épisode détecté",
-    "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
+    "iqa": 36,
+    "label": "Modéré",
+    "pm25": 17.1,
+    "pm10": 49.6,
+    "ozone": 36.0,
+    "dust": 51.0,
+    "haze": "Épisode modéré détecté",
+    "advice": "Personnes sensibles : limitez l'exposition prolongée."
   },
   "sargassum": {
     "Grand-Cul-de-Sac": "impacte",

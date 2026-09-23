@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-22T10:26:06-04:00",
+  "generated_at": "2026-09-23T10:45:46-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mardi 22 septembre 2026",
-    "short": "22 septembre 2026",
-    "day0": "Mardi 22 septembre",
-    "day1": "Mer. 23",
-    "day2": "Jeu. 24",
-    "iso": "2026-09-22T10:26:06-04:00"
+    "long": "Mercredi 23 septembre 2026",
+    "short": "23 septembre 2026",
+    "day0": "Mercredi 23 septembre",
+    "day1": "Jeu. 24",
+    "day2": "Ven. 25",
+    "iso": "2026-09-23T10:45:46-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,52 +20,52 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 73,
-    "wind": 22,
+    "humidity": 78,
+    "wind": 23,
     "wind_dir": "E",
-    "icon": "☁️",
-    "condition": "Couvert",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
     "sunrise": "06:00",
-    "sunset": "18:07",
+    "sunset": "18:06",
     "days": [
-      {
-        "date": "2026-09-22",
-        "label": "Mar. 22",
-        "full_label": "Mardi 22 septembre",
-        "tmax": 29,
-        "tmin": 28,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 26,
-        "rain": 4
-      },
       {
         "date": "2026-09-23",
         "label": "Mer. 23",
         "full_label": "Mercredi 23 septembre",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 26,
-        "rain": 57
+        "tmax": 29,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 29,
+        "rain": 53
       },
       {
         "date": "2026-09-24",
         "label": "Jeu. 24",
         "full_label": "Jeudi 24 septembre",
         "tmax": 29,
-        "tmin": 24,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 29,
-        "rain": 43
+        "tmin": 27,
+        "icon": "⛅",
+        "condition": "Partiellement nuageux",
+        "wind": 23,
+        "rain": 31
+      },
+      {
+        "date": "2026-09-25",
+        "label": "Ven. 25",
+        "full_label": "Vendredi 25 septembre",
+        "tmax": 29,
+        "tmin": 28,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 24,
+        "rain": 10
       }
     ]
   },
   "marine": {
-    "wave": 0.8,
-    "period": 6,
+    "wave": 0.9,
+    "period": 7,
     "direction": "E",
     "water": 30,
     "level": "Tous niveaux"
@@ -74,8 +74,8 @@
     "iqa": 3,
     "label": "Bon",
     "pm25": 2.7,
-    "pm10": 4.7,
-    "ozone": 32.0,
+    "pm10": 4.6,
+    "ozone": 33.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

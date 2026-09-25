@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-23T10:45:46-04:00",
+  "generated_at": "2026-09-25T11:02:34-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mercredi 23 septembre 2026",
-    "short": "23 septembre 2026",
-    "day0": "Mercredi 23 septembre",
-    "day1": "Jeu. 24",
-    "day2": "Ven. 25",
-    "iso": "2026-09-23T10:45:46-04:00"
+    "long": "Vendredi 25 septembre 2026",
+    "short": "25 septembre 2026",
+    "day0": "Vendredi 25 septembre",
+    "day1": "Sam. 26",
+    "day2": "Dim. 27",
+    "iso": "2026-09-25T11:02:34-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,65 +20,65 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 78,
-    "wind": 23,
+    "humidity": 76,
+    "wind": 16,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
     "sunrise": "06:00",
-    "sunset": "18:06",
+    "sunset": "18:04",
     "days": [
-      {
-        "date": "2026-09-23",
-        "label": "Mer. 23",
-        "full_label": "Mercredi 23 septembre",
-        "tmax": 29,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 29,
-        "rain": 53
-      },
-      {
-        "date": "2026-09-24",
-        "label": "Jeu. 24",
-        "full_label": "Jeudi 24 septembre",
-        "tmax": 29,
-        "tmin": 27,
-        "icon": "⛅",
-        "condition": "Partiellement nuageux",
-        "wind": 23,
-        "rain": 31
-      },
       {
         "date": "2026-09-25",
         "label": "Ven. 25",
         "full_label": "Vendredi 25 septembre",
         "tmax": 29,
-        "tmin": 28,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 24,
-        "rain": 10
+        "tmin": 27,
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 22,
+        "rain": 24
+      },
+      {
+        "date": "2026-09-26",
+        "label": "Sam. 26",
+        "full_label": "Samedi 26 septembre",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 27,
+        "rain": 32
+      },
+      {
+        "date": "2026-09-27",
+        "label": "Dim. 27",
+        "full_label": "Dimanche 27 septembre",
+        "tmax": 28,
+        "tmin": 24,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 28,
+        "rain": 39
       }
     ]
   },
   "marine": {
-    "wave": 0.9,
+    "wave": 0.8,
     "period": 7,
     "direction": "E",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 3,
-    "label": "Bon",
-    "pm25": 2.7,
-    "pm10": 4.6,
-    "ozone": 33.0,
-    "dust": 0.0,
-    "haze": "Aucun épisode détecté",
-    "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
+    "iqa": 36,
+    "label": "Modéré",
+    "pm25": 17.5,
+    "pm10": 49.8,
+    "ozone": 31.0,
+    "dust": 52.0,
+    "haze": "Épisode modéré détecté",
+    "advice": "Personnes sensibles : limitez l'exposition prolongée."
   },
   "sargassum": {
     "Grand-Cul-de-Sac": "impacte",

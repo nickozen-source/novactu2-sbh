@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-26T10:11:53-04:00",
+  "generated_at": "2026-09-27T11:00:55-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Samedi 26 septembre 2026",
-    "short": "26 septembre 2026",
-    "day0": "Samedi 26 septembre",
-    "day1": "Dim. 27",
-    "day2": "Lun. 28",
-    "iso": "2026-09-26T10:11:53-04:00"
+    "long": "Dimanche 27 septembre 2026",
+    "short": "27 septembre 2026",
+    "day0": "Dimanche 27 septembre",
+    "day1": "Lun. 28",
+    "day2": "Mar. 29",
+    "iso": "2026-09-27T11:00:55-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,64 +19,64 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 28,
-    "humidity": 73,
-    "wind": 21,
+    "temp": 29,
+    "humidity": 74,
+    "wind": 27,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
-    "sunrise": "06:00",
-    "sunset": "18:04",
+    "sunrise": "06:01",
+    "sunset": "18:03",
     "days": [
       {
-        "date": "2026-09-26",
-        "label": "Sam. 26",
-        "full_label": "Samedi 26 septembre",
+        "date": "2026-09-27",
+        "label": "Dim. 27",
+        "full_label": "Dimanche 27 septembre",
         "tmax": 29,
         "tmin": 28,
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 27,
-        "rain": 37
-      },
-      {
-        "date": "2026-09-27",
-        "label": "Dim. 27",
-        "full_label": "Dimanche 27 septembre",
-        "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 28,
-        "rain": 39
+        "rain": 66
       },
       {
         "date": "2026-09-28",
         "label": "Lun. 28",
         "full_label": "Lundi 28 septembre",
-        "tmax": 28,
-        "tmin": 27,
+        "tmax": 29,
+        "tmin": 28,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 29,
-        "rain": 14
+        "wind": 27,
+        "rain": 11
+      },
+      {
+        "date": "2026-09-29",
+        "label": "Mar. 29",
+        "full_label": "Mardi 29 septembre",
+        "tmax": 28,
+        "tmin": 24,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 32,
+        "rain": 33
       }
     ]
   },
   "marine": {
-    "wave": 1.0,
+    "wave": 1.2,
     "period": 7,
     "direction": "E",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 6,
+    "iqa": 5,
     "label": "Bon",
-    "pm25": 5.9,
-    "pm10": 10.9,
-    "ozone": 31.0,
-    "dust": 3.0,
+    "pm25": 5.3,
+    "pm10": 9.3,
+    "ozone": 29.0,
+    "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

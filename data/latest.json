@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-05T15:06:40-04:00",
+  "generated_at": "2026-10-06T12:32:59-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Lundi 5 octobre 2026",
-    "short": "5 octobre 2026",
-    "day0": "Lundi 5 octobre",
-    "day1": "Mar. 6",
-    "day2": "Mer. 7",
-    "iso": "2026-10-05T15:06:40-04:00"
+    "long": "Mardi 6 octobre 2026",
+    "short": "6 octobre 2026",
+    "day0": "Mardi 6 octobre",
+    "day1": "Mer. 7",
+    "day2": "Jeu. 8",
+    "iso": "2026-10-06T12:32:59-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,47 +19,47 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 29,
-    "humidity": 74,
-    "wind": 28,
+    "temp": 28,
+    "humidity": 71,
+    "wind": 26,
     "wind_dir": "E",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "🌦",
+    "condition": "Pluie possible",
     "sunrise": "06:02",
-    "sunset": "17:56",
+    "sunset": "17:55",
     "days": [
-      {
-        "date": "2026-10-05",
-        "label": "Lun. 5",
-        "full_label": "Lundi 5 octobre",
-        "tmax": 29,
-        "tmin": 28,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 34,
-        "rain": 15
-      },
       {
         "date": "2026-10-06",
         "label": "Mar. 6",
         "full_label": "Mardi 6 octobre",
         "tmax": 29,
-        "tmin": 26,
+        "tmin": 27,
         "icon": "🌦",
-        "condition": "Averses éparses",
-        "wind": 34,
-        "rain": 71
+        "condition": "Pluie possible",
+        "wind": 33,
+        "rain": 75
       },
       {
         "date": "2026-10-07",
         "label": "Mer. 7",
         "full_label": "Mercredi 7 octobre",
         "tmax": 28,
-        "tmin": 26,
+        "tmin": 24,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 28,
-        "rain": 60
+        "wind": 30,
+        "rain": 75
+      },
+      {
+        "date": "2026-10-08",
+        "label": "Jeu. 8",
+        "full_label": "Jeudi 8 octobre",
+        "tmax": 29,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 30,
+        "rain": 41
       }
     ]
   },
@@ -71,11 +71,11 @@
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 9,
+    "iqa": 6,
     "label": "Bon",
-    "pm25": 9.0,
-    "pm10": 15.3,
-    "ozone": 29.0,
+    "pm25": 5.8,
+    "pm10": 9.0,
+    "ozone": 46.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

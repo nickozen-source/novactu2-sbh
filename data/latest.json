@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-12T15:39:57-04:00",
+  "generated_at": "2026-10-13T13:24:42-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Lundi 12 octobre 2026",
-    "short": "12 octobre 2026",
-    "day0": "Lundi 12 octobre",
-    "day1": "Mar. 13",
-    "day2": "Mer. 14",
-    "iso": "2026-10-12T15:39:57-04:00"
+    "long": "Mardi 13 octobre 2026",
+    "short": "13 octobre 2026",
+    "day0": "Mardi 13 octobre",
+    "day1": "Mer. 14",
+    "day2": "Jeu. 15",
+    "iso": "2026-10-13T13:24:42-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,64 +19,64 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 29,
-    "humidity": 71,
+    "temp": 28,
+    "humidity": 75,
     "wind": 20,
     "wind_dir": "E",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "☁️",
+    "condition": "Couvert",
     "sunrise": "06:04",
-    "sunset": "17:51",
+    "sunset": "17:50",
     "days": [
-      {
-        "date": "2026-10-12",
-        "label": "Lun. 12",
-        "full_label": "Lundi 12 octobre",
-        "tmax": 29,
-        "tmin": 28,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 29,
-        "rain": 39
-      },
       {
         "date": "2026-10-13",
         "label": "Mar. 13",
         "full_label": "Mardi 13 octobre",
-        "tmax": 28,
-        "tmin": 24,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 32,
+        "tmax": 29,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 22,
         "rain": 51
       },
       {
         "date": "2026-10-14",
         "label": "Mer. 14",
         "full_label": "Mercredi 14 octobre",
-        "tmax": 28,
-        "tmin": 27,
+        "tmax": 29,
+        "tmin": 28,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 26,
+        "rain": 71
+      },
+      {
+        "date": "2026-10-15",
+        "label": "Jeu. 15",
+        "full_label": "Jeudi 15 octobre",
+        "tmax": 29,
+        "tmin": 28,
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 25,
-        "rain": 26
+        "rain": 45
       }
     ]
   },
   "marine": {
-    "wave": 1.1,
-    "period": 6,
+    "wave": 1.0,
+    "period": 7,
     "direction": "E",
     "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 4,
+    "iqa": 10,
     "label": "Bon",
-    "pm25": 4.5,
-    "pm10": 7.9,
-    "ozone": 31.0,
-    "dust": 0.0,
+    "pm25": 10.0,
+    "pm10": 17.1,
+    "ozone": 35.0,
+    "dust": 2.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

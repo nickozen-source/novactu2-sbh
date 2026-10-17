@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-16T10:37:11-04:00",
+  "generated_at": "2026-10-17T09:29:51-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Vendredi 16 octobre 2026",
-    "short": "16 octobre 2026",
-    "day0": "Vendredi 16 octobre",
-    "day1": "Sam. 17",
-    "day2": "Dim. 18",
-    "iso": "2026-10-16T10:37:11-04:00"
+    "long": "Samedi 17 octobre 2026",
+    "short": "17 octobre 2026",
+    "day0": "Samedi 17 octobre",
+    "day1": "Dim. 18",
+    "day2": "Lun. 19",
+    "iso": "2026-10-17T09:29:51-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,62 +20,62 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 70,
-    "wind": 24,
+    "humidity": 72,
+    "wind": 19,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
     "sunrise": "06:05",
-    "sunset": "17:48",
+    "sunset": "17:47",
     "days": [
-      {
-        "date": "2026-10-16",
-        "label": "Ven. 16",
-        "full_label": "Vendredi 16 octobre",
-        "tmax": 29,
-        "tmin": 28,
-        "icon": "⛅",
-        "condition": "Partiellement nuageux",
-        "wind": 25,
-        "rain": 21
-      },
       {
         "date": "2026-10-17",
         "label": "Sam. 17",
         "full_label": "Samedi 17 octobre",
         "tmax": 29,
         "tmin": 28,
-        "icon": "⛅",
-        "condition": "Partiellement nuageux",
+        "icon": "🌦",
+        "condition": "Pluie possible",
         "wind": 21,
-        "rain": 26
+        "rain": 20
       },
       {
         "date": "2026-10-18",
         "label": "Dim. 18",
         "full_label": "Dimanche 18 octobre",
         "tmax": 28,
-        "tmin": 28,
-        "icon": "⛅",
-        "condition": "Partiellement nuageux",
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
         "wind": 21,
-        "rain": 25
+        "rain": 30
+      },
+      {
+        "date": "2026-10-19",
+        "label": "Lun. 19",
+        "full_label": "Lundi 19 octobre",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 23,
+        "rain": 48
       }
     ]
   },
   "marine": {
     "wave": 0.9,
-    "period": 7,
-    "direction": "E",
+    "period": 8,
+    "direction": "NE",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 5,
+    "iqa": 3,
     "label": "Bon",
-    "pm25": 4.8,
-    "pm10": 8.4,
-    "ozone": 44.0,
+    "pm25": 2.7,
+    "pm10": 4.7,
+    "ozone": 40.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

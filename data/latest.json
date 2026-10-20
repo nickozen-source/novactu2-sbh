@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-19T12:50:20-04:00",
+  "generated_at": "2026-10-20T10:46:21-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Lundi 19 octobre 2026",
-    "short": "19 octobre 2026",
-    "day0": "Lundi 19 octobre",
-    "day1": "Mar. 20",
-    "day2": "Mer. 21",
-    "iso": "2026-10-19T12:50:20-04:00"
+    "long": "Mardi 20 octobre 2026",
+    "short": "20 octobre 2026",
+    "day0": "Mardi 20 octobre",
+    "day1": "Mer. 21",
+    "day2": "Jeu. 22",
+    "iso": "2026-10-20T10:46:21-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,62 +20,62 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 74,
-    "wind": 18,
-    "wind_dir": "E",
+    "humidity": 72,
+    "wind": 15,
+    "wind_dir": "SE",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
-    "sunrise": "06:05",
-    "sunset": "17:46",
+    "sunrise": "06:06",
+    "sunset": "17:45",
     "days": [
-      {
-        "date": "2026-10-19",
-        "label": "Lun. 19",
-        "full_label": "Lundi 19 octobre",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 20,
-        "rain": 53
-      },
       {
         "date": "2026-10-20",
         "label": "Mar. 20",
         "full_label": "Mardi 20 octobre",
-        "tmax": 28,
-        "tmin": 28,
+        "tmax": 29,
+        "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 17,
-        "rain": 30
+        "wind": 16,
+        "rain": 41
       },
       {
         "date": "2026-10-21",
         "label": "Mer. 21",
         "full_label": "Mercredi 21 octobre",
         "tmax": 29,
-        "tmin": 27,
+        "tmin": 28,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 18,
-        "rain": 45
+        "wind": 21,
+        "rain": 59
+      },
+      {
+        "date": "2026-10-22",
+        "label": "Jeu. 22",
+        "full_label": "Jeudi 22 octobre",
+        "tmax": 29,
+        "tmin": 28,
+        "icon": "⛅",
+        "condition": "Partiellement nuageux",
+        "wind": 23,
+        "rain": 24
       }
     ]
   },
   "marine": {
     "wave": 0.8,
-    "period": 8,
+    "period": 9,
     "direction": "NE",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 3,
+    "iqa": 2,
     "label": "Bon",
-    "pm25": 3.4,
-    "pm10": 5.9,
-    "ozone": 31.0,
+    "pm25": 2.1,
+    "pm10": 3.4,
+    "ozone": 34.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

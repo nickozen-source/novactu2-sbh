@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-22T10:54:50-04:00",
+  "generated_at": "2026-10-23T10:42:47-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 22 octobre 2026",
-    "short": "22 octobre 2026",
-    "day0": "Jeudi 22 octobre",
-    "day1": "Ven. 23",
-    "day2": "Sam. 24",
-    "iso": "2026-10-22T10:54:50-04:00"
+    "long": "Vendredi 23 octobre 2026",
+    "short": "23 octobre 2026",
+    "day0": "Vendredi 23 octobre",
+    "day1": "Sam. 24",
+    "day2": "Dim. 25",
+    "iso": "2026-10-23T10:42:47-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,35 +20,24 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 76,
-    "wind": 22,
-    "wind_dir": "SE",
+    "humidity": 75,
+    "wind": 24,
+    "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
-    "sunrise": "06:06",
-    "sunset": "17:44",
+    "sunrise": "06:07",
+    "sunset": "17:43",
     "days": [
-      {
-        "date": "2026-10-22",
-        "label": "Jeu. 22",
-        "full_label": "Jeudi 22 octobre",
-        "tmax": 29,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 23,
-        "rain": 60
-      },
       {
         "date": "2026-10-23",
         "label": "Ven. 23",
         "full_label": "Vendredi 23 octobre",
         "tmax": 29,
-        "tmin": 27,
+        "tmin": 28,
         "icon": "🌦",
-        "condition": "Averses éparses",
-        "wind": 31,
-        "rain": 41
+        "condition": "Pluie possible",
+        "wind": 30,
+        "rain": 25
       },
       {
         "date": "2026-10-24",
@@ -59,22 +48,33 @@
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 32,
-        "rain": 35
+        "rain": 31
+      },
+      {
+        "date": "2026-10-25",
+        "label": "Dim. 25",
+        "full_label": "Dimanche 25 octobre",
+        "tmax": 29,
+        "tmin": 28,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 31,
+        "rain": 37
       }
     ]
   },
   "marine": {
-    "wave": 0.9,
+    "wave": 1.1,
     "period": 8,
     "direction": "NE",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 2,
+    "iqa": 3,
     "label": "Bon",
-    "pm25": 2.1,
-    "pm10": 3.6,
+    "pm25": 2.6,
+    "pm10": 4.5,
     "ozone": 36.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",

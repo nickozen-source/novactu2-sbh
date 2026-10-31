@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-30T12:33:59-04:00",
+  "generated_at": "2026-10-31T11:37:48-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Vendredi 30 octobre 2026",
-    "short": "30 octobre 2026",
-    "day0": "Vendredi 30 octobre",
-    "day1": "Sam. 31",
-    "day2": "Dim. 1",
-    "iso": "2026-10-30T12:33:59-04:00"
+    "long": "Samedi 31 octobre 2026",
+    "short": "31 octobre 2026",
+    "day0": "Samedi 31 octobre",
+    "day1": "Dim. 1",
+    "day2": "Lun. 2",
+    "iso": "2026-10-31T11:37:48-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,35 +20,24 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 73,
-    "wind": 21,
+    "humidity": 72,
+    "wind": 22,
     "wind_dir": "E",
-    "icon": "☁️",
-    "condition": "Couvert",
-    "sunrise": "06:09",
-    "sunset": "17:40",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
+    "sunrise": "06:10",
+    "sunset": "17:39",
     "days": [
-      {
-        "date": "2026-10-30",
-        "label": "Ven. 30",
-        "full_label": "Vendredi 30 octobre",
-        "tmax": 29,
-        "tmin": 25,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 28,
-        "rain": 93
-      },
       {
         "date": "2026-10-31",
         "label": "Sam. 31",
         "full_label": "Samedi 31 octobre",
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
         "wind": 28,
-        "rain": 56
+        "rain": 61
       },
       {
         "date": "2026-11-01",
@@ -56,10 +45,21 @@
         "full_label": "Dimanche 1 novembre",
         "tmax": 29,
         "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 34,
-        "rain": 57
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 32,
+        "rain": 69
+      },
+      {
+        "date": "2026-11-02",
+        "label": "Lun. 2",
+        "full_label": "Lundi 2 novembre",
+        "tmax": 29,
+        "tmin": 27,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 33,
+        "rain": 51
       }
     ]
   },
@@ -71,11 +71,11 @@
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 7,
+    "iqa": 4,
     "label": "Bon",
-    "pm25": 6.7,
-    "pm10": 11.5,
-    "ozone": 42.0,
+    "pm25": 3.7,
+    "pm10": 6.4,
+    "ozone": 45.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

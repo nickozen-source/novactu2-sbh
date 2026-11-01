@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T11:37:48-04:00",
+  "generated_at": "2026-11-01T12:37:04-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Samedi 31 octobre 2026",
-    "short": "31 octobre 2026",
-    "day0": "Samedi 31 octobre",
-    "day1": "Dim. 1",
-    "day2": "Lun. 2",
-    "iso": "2026-10-31T11:37:48-04:00"
+    "long": "Dimanche 1 novembre 2026",
+    "short": "1 novembre 2026",
+    "day0": "Dimanche 1 novembre",
+    "day1": "Lun. 2",
+    "day2": "Mar. 3",
+    "iso": "2026-11-01T12:37:04-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,25 +20,14 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 72,
-    "wind": 22,
+    "humidity": 73,
+    "wind": 28,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
     "sunrise": "06:10",
     "sunset": "17:39",
     "days": [
-      {
-        "date": "2026-10-31",
-        "label": "Sam. 31",
-        "full_label": "Samedi 31 octobre",
-        "tmax": 29,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 28,
-        "rain": 61
-      },
       {
         "date": "2026-11-01",
         "label": "Dim. 1",
@@ -48,34 +37,45 @@
         "icon": "⛈",
         "condition": "Orage",
         "wind": 32,
-        "rain": 69
+        "rain": 63
       },
       {
         "date": "2026-11-02",
         "label": "Lun. 2",
         "full_label": "Lundi 2 novembre",
         "tmax": 29,
-        "tmin": 27,
+        "tmin": 28,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 33,
-        "rain": 51
+        "wind": 32,
+        "rain": 59
+      },
+      {
+        "date": "2026-11-03",
+        "label": "Mar. 3",
+        "full_label": "Mardi 3 novembre",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 29,
+        "rain": 28
       }
     ]
   },
   "marine": {
-    "wave": 1.0,
-    "period": 7,
+    "wave": 1.3,
+    "period": 6,
     "direction": "E",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 4,
+    "iqa": 5,
     "label": "Bon",
-    "pm25": 3.7,
-    "pm10": 6.4,
-    "ozone": 45.0,
+    "pm25": 4.8,
+    "pm10": 8.4,
+    "ozone": 40.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

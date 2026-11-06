@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-05T13:53:09-04:00",
+  "generated_at": "2026-11-06T13:13:36-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 5 novembre 2026",
-    "short": "5 novembre 2026",
-    "day0": "Jeudi 5 novembre",
-    "day1": "Ven. 6",
-    "day2": "Sam. 7",
-    "iso": "2026-11-05T13:53:09-04:00"
+    "long": "Vendredi 6 novembre 2026",
+    "short": "6 novembre 2026",
+    "day0": "Vendredi 6 novembre",
+    "day1": "Sam. 7",
+    "day2": "Dim. 8",
+    "iso": "2026-11-06T13:13:36-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,35 +19,24 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 28,
-    "humidity": 71,
-    "wind": 20,
+    "temp": 25,
+    "humidity": 87,
+    "wind": 37,
     "wind_dir": "SO",
-    "icon": "⛅",
-    "condition": "Partiellement nuageux",
+    "icon": "⛈",
+    "condition": "Orage",
     "sunrise": "06:12",
     "sunset": "17:37",
     "days": [
       {
-        "date": "2026-11-05",
-        "label": "Jeu. 5",
-        "full_label": "Jeudi 5 novembre",
-        "tmax": 28,
-        "tmin": 28,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 23,
-        "rain": 31
-      },
-      {
         "date": "2026-11-06",
         "label": "Ven. 6",
         "full_label": "Vendredi 6 novembre",
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 25,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 30,
+        "wind": 37,
         "rain": 88
       },
       {
@@ -55,28 +44,39 @@
         "label": "Sam. 7",
         "full_label": "Samedi 7 novembre",
         "tmax": 28,
-        "tmin": 25,
+        "tmin": 26,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 33,
+        "wind": 38,
+        "rain": 100
+      },
+      {
+        "date": "2026-11-08",
+        "label": "Dim. 8",
+        "full_label": "Dimanche 8 novembre",
+        "tmax": 28,
+        "tmin": 26,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 30,
         "rain": 88
       }
     ]
   },
   "marine": {
-    "wave": 0.9,
+    "wave": 1.0,
     "period": 8,
     "direction": "NE",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 17,
+    "iqa": 5,
     "label": "Bon",
-    "pm25": 17.0,
-    "pm10": 26.3,
-    "ozone": 61.0,
-    "dust": 6.0,
+    "pm25": 5.4,
+    "pm10": 8.3,
+    "ozone": 44.0,
+    "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

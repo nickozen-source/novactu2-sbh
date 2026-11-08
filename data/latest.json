@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-07T12:07:57-04:00",
+  "generated_at": "2026-11-08T12:31:35-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Samedi 7 novembre 2026",
-    "short": "7 novembre 2026",
-    "day0": "Samedi 7 novembre",
-    "day1": "Dim. 8",
-    "day2": "Lun. 9",
-    "iso": "2026-11-07T12:07:57-04:00"
+    "long": "Dimanche 8 novembre 2026",
+    "short": "8 novembre 2026",
+    "day0": "Dimanche 8 novembre",
+    "day1": "Lun. 9",
+    "day2": "Mar. 10",
+    "iso": "2026-11-08T12:31:35-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,9 +19,9 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 28,
-    "humidity": 78,
-    "wind": 32,
+    "temp": 26,
+    "humidity": 86,
+    "wind": 24,
     "wind_dir": "SO",
     "icon": "⛈",
     "condition": "Orage",
@@ -29,53 +29,53 @@
     "sunset": "17:36",
     "days": [
       {
-        "date": "2026-11-07",
-        "label": "Sam. 7",
-        "full_label": "Samedi 7 novembre",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 37,
-        "rain": 98
-      },
-      {
         "date": "2026-11-08",
         "label": "Dim. 8",
         "full_label": "Dimanche 8 novembre",
         "tmax": 28,
-        "tmin": 25,
+        "tmin": 26,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 35,
-        "rain": 98
+        "wind": 30,
+        "rain": 100
       },
       {
         "date": "2026-11-09",
         "label": "Lun. 9",
         "full_label": "Lundi 9 novembre",
         "tmax": 28,
+        "tmin": 28,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 15,
+        "rain": 14
+      },
+      {
+        "date": "2026-11-10",
+        "label": "Mar. 10",
+        "full_label": "Mardi 10 novembre",
+        "tmax": 28,
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 14,
-        "rain": 13
+        "wind": 20,
+        "rain": 12
       }
     ]
   },
   "marine": {
-    "wave": 1.4,
+    "wave": 1.0,
     "period": 7,
-    "direction": "SO",
+    "direction": "N",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
     "iqa": 3,
     "label": "Bon",
-    "pm25": 2.7,
-    "pm10": 3.9,
-    "ozone": 59.0,
+    "pm25": 3.4,
+    "pm10": 4.7,
+    "ozone": 63.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

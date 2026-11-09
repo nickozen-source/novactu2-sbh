@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-08T12:31:35-04:00",
+  "generated_at": "2026-11-09T16:29:53-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Dimanche 8 novembre 2026",
-    "short": "8 novembre 2026",
-    "day0": "Dimanche 8 novembre",
-    "day1": "Lun. 9",
-    "day2": "Mar. 10",
-    "iso": "2026-11-08T12:31:35-04:00"
+    "long": "Lundi 9 novembre 2026",
+    "short": "9 novembre 2026",
+    "day0": "Lundi 9 novembre",
+    "day1": "Mar. 10",
+    "day2": "Mer. 11",
+    "iso": "2026-11-09T16:29:53-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,53 +19,53 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 26,
-    "humidity": 86,
-    "wind": 24,
-    "wind_dir": "SO",
-    "icon": "⛈",
-    "condition": "Orage",
-    "sunrise": "06:13",
+    "temp": 28,
+    "humidity": 74,
+    "wind": 7,
+    "wind_dir": "SE",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
+    "sunrise": "06:14",
     "sunset": "17:36",
     "days": [
-      {
-        "date": "2026-11-08",
-        "label": "Dim. 8",
-        "full_label": "Dimanche 8 novembre",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 30,
-        "rain": 100
-      },
       {
         "date": "2026-11-09",
         "label": "Lun. 9",
         "full_label": "Lundi 9 novembre",
         "tmax": 28,
-        "tmin": 28,
-        "icon": "🌦",
-        "condition": "Pluie possible",
+        "tmin": 27,
+        "icon": "☁️",
+        "condition": "Couvert",
         "wind": 15,
-        "rain": 14
+        "rain": 19
       },
       {
         "date": "2026-11-10",
         "label": "Mar. 10",
         "full_label": "Mardi 10 novembre",
         "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
+        "tmin": 28,
+        "icon": "☁️",
+        "condition": "Couvert",
         "wind": 20,
-        "rain": 12
+        "rain": 6
+      },
+      {
+        "date": "2026-11-11",
+        "label": "Mer. 11",
+        "full_label": "Mercredi 11 novembre",
+        "tmax": 29,
+        "tmin": 28,
+        "icon": "⛅",
+        "condition": "Partiellement nuageux",
+        "wind": 23,
+        "rain": 8
       }
     ]
   },
   "marine": {
     "wave": 1.0,
-    "period": 7,
+    "period": 9,
     "direction": "N",
     "water": 30,
     "level": "Tous niveaux"
@@ -73,8 +73,8 @@
   "air": {
     "iqa": 3,
     "label": "Bon",
-    "pm25": 3.4,
-    "pm10": 4.7,
+    "pm25": 2.6,
+    "pm10": 3.9,
     "ozone": 63.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",

@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-10T13:31:12-04:00",
+  "generated_at": "2026-11-11T13:44:30-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Mardi 10 novembre 2026",
-    "short": "10 novembre 2026",
-    "day0": "Mardi 10 novembre",
-    "day1": "Mer. 11",
-    "day2": "Jeu. 12",
-    "iso": "2026-11-10T13:31:12-04:00"
+    "long": "Mercredi 11 novembre 2026",
+    "short": "11 novembre 2026",
+    "day0": "Mercredi 11 novembre",
+    "day1": "Jeu. 12",
+    "day2": "Ven. 13",
+    "iso": "2026-11-11T13:44:30-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,35 +20,24 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 77,
-    "wind": 5,
+    "humidity": 76,
+    "wind": 18,
     "wind_dir": "E",
     "icon": "⛅",
     "condition": "Partiellement nuageux",
-    "sunrise": "06:14",
+    "sunrise": "06:15",
     "sunset": "17:35",
     "days": [
-      {
-        "date": "2026-11-10",
-        "label": "Mar. 10",
-        "full_label": "Mardi 10 novembre",
-        "tmax": 28,
-        "tmin": 28,
-        "icon": "☁️",
-        "condition": "Couvert",
-        "wind": 20,
-        "rain": 25
-      },
       {
         "date": "2026-11-11",
         "label": "Mer. 11",
         "full_label": "Mercredi 11 novembre",
         "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 22,
-        "rain": 35
+        "tmin": 28,
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 25,
+        "rain": 16
       },
       {
         "date": "2026-11-12",
@@ -56,26 +45,37 @@
         "full_label": "Jeudi 12 novembre",
         "tmax": 29,
         "tmin": 28,
-        "icon": "⛈",
-        "condition": "Orage",
-        "wind": 30,
-        "rain": 35
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 31,
+        "rain": 44
+      },
+      {
+        "date": "2026-11-13",
+        "label": "Ven. 13",
+        "full_label": "Vendredi 13 novembre",
+        "tmax": 29,
+        "tmin": 28,
+        "icon": "⛅",
+        "condition": "Partiellement nuageux",
+        "wind": 33,
+        "rain": 26
       }
     ]
   },
   "marine": {
-    "wave": 0.9,
-    "period": 9,
+    "wave": 1.0,
+    "period": 8,
     "direction": "NE",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 6,
+    "iqa": 4,
     "label": "Bon",
-    "pm25": 6.0,
-    "pm10": 7.8,
-    "ozone": 88.0,
+    "pm25": 3.9,
+    "pm10": 6.3,
+    "ozone": 48.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."

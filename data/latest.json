@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-14T12:24:44-04:00",
+  "generated_at": "2026-11-15T12:50:50-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Samedi 14 novembre 2026",
-    "short": "14 novembre 2026",
-    "day0": "Samedi 14 novembre",
-    "day1": "Dim. 15",
-    "day2": "Lun. 16",
-    "iso": "2026-11-14T12:24:44-04:00"
+    "long": "Dimanche 15 novembre 2026",
+    "short": "15 novembre 2026",
+    "day0": "Dimanche 15 novembre",
+    "day1": "Lun. 16",
+    "day2": "Mar. 17",
+    "iso": "2026-11-15T12:50:50-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -18,21 +18,65 @@
     "Open-Meteo Air Quality API",
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
-  "weather": null,
+  "weather": {
+    "temp": 28,
+    "humidity": 71,
+    "wind": 24,
+    "wind_dir": "SE",
+    "icon": "☁️",
+    "condition": "Couvert",
+    "sunrise": "06:17",
+    "sunset": "17:34",
+    "days": [
+      {
+        "date": "2026-11-15",
+        "label": "Dim. 15",
+        "full_label": "Dimanche 15 novembre",
+        "tmax": 29,
+        "tmin": 28,
+        "icon": "☁️",
+        "condition": "Couvert",
+        "wind": 29,
+        "rain": 37
+      },
+      {
+        "date": "2026-11-16",
+        "label": "Lun. 16",
+        "full_label": "Lundi 16 novembre",
+        "tmax": 29,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 29,
+        "rain": 44
+      },
+      {
+        "date": "2026-11-17",
+        "label": "Mar. 17",
+        "full_label": "Mardi 17 novembre",
+        "tmax": 29,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 34,
+        "rain": 59
+      }
+    ]
+  },
   "marine": {
-    "wave": 1.5,
+    "wave": 1.1,
     "period": 6,
     "direction": "SE",
     "water": 30,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 20,
+    "iqa": 12,
     "label": "Bon",
-    "pm25": 20.0,
-    "pm10": 29.4,
-    "ozone": 60.0,
-    "dust": 5.0,
+    "pm25": 12.2,
+    "pm10": 20.0,
+    "ozone": 48.0,
+    "dust": 2.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
   },

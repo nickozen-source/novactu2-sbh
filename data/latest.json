@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-19T14:53:37-04:00",
+  "generated_at": "2026-11-20T14:23:20-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Jeudi 19 novembre 2026",
-    "short": "19 novembre 2026",
-    "day0": "Jeudi 19 novembre",
-    "day1": "Ven. 20",
-    "day2": "Sam. 21",
-    "iso": "2026-11-19T14:53:37-04:00"
+    "long": "Vendredi 20 novembre 2026",
+    "short": "20 novembre 2026",
+    "day0": "Vendredi 20 novembre",
+    "day1": "Sam. 21",
+    "day2": "Dim. 22",
+    "iso": "2026-11-20T14:23:20-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,26 +19,15 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 28,
-    "humidity": 73,
-    "wind": 16,
-    "wind_dir": "E",
-    "icon": "🌦",
-    "condition": "Pluie possible",
+    "temp": 27,
+    "humidity": 78,
+    "wind": 24,
+    "wind_dir": "SE",
+    "icon": "☁️",
+    "condition": "Couvert",
     "sunrise": "06:19",
     "sunset": "17:34",
     "days": [
-      {
-        "date": "2026-11-19",
-        "label": "Jeu. 19",
-        "full_label": "Jeudi 19 novembre",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 33,
-        "rain": 48
-      },
       {
         "date": "2026-11-20",
         "label": "Ven. 20",
@@ -47,25 +36,36 @@
         "tmin": 27,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 25,
-        "rain": 57
+        "wind": 29,
+        "rain": 67
       },
       {
         "date": "2026-11-21",
         "label": "Sam. 21",
         "full_label": "Samedi 21 novembre",
         "tmax": 28,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 25,
-        "rain": 57
+        "tmin": 25,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 28,
+        "rain": 75
+      },
+      {
+        "date": "2026-11-22",
+        "label": "Dim. 22",
+        "full_label": "Dimanche 22 novembre",
+        "tmax": 28,
+        "tmin": 24,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 30,
+        "rain": 55
       }
     ]
   },
   "marine": {
-    "wave": 1.4,
-    "period": 6,
+    "wave": 1.2,
+    "period": 7,
     "direction": "E",
     "water": 30,
     "level": "Tous niveaux"
@@ -73,8 +73,8 @@
   "air": {
     "iqa": 4,
     "label": "Bon",
-    "pm25": 3.7,
-    "pm10": 6.4,
+    "pm25": 4.5,
+    "pm10": 7.5,
     "ozone": 51.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",

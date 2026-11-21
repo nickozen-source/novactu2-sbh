@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-20T14:23:20-04:00",
+  "generated_at": "2026-11-21T13:09:13-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Vendredi 20 novembre 2026",
-    "short": "20 novembre 2026",
-    "day0": "Vendredi 20 novembre",
-    "day1": "Sam. 21",
-    "day2": "Dim. 22",
-    "iso": "2026-11-20T14:23:20-04:00"
+    "long": "Samedi 21 novembre 2026",
+    "short": "21 novembre 2026",
+    "day0": "Samedi 21 novembre",
+    "day1": "Dim. 22",
+    "day2": "Lun. 23",
+    "iso": "2026-11-21T13:09:13-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -19,26 +19,15 @@
     "NOAA/AOML Sargassum Inundation Report + Journal de Saint-Barth search when reachable"
   ],
   "weather": {
-    "temp": 27,
-    "humidity": 78,
-    "wind": 24,
-    "wind_dir": "SE",
-    "icon": "☁️",
-    "condition": "Couvert",
-    "sunrise": "06:19",
-    "sunset": "17:34",
+    "temp": 28,
+    "humidity": 75,
+    "wind": 21,
+    "wind_dir": "E",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
+    "sunrise": "06:20",
+    "sunset": "17:33",
     "days": [
-      {
-        "date": "2026-11-20",
-        "label": "Ven. 20",
-        "full_label": "Vendredi 20 novembre",
-        "tmax": 29,
-        "tmin": 27,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 29,
-        "rain": 67
-      },
       {
         "date": "2026-11-21",
         "label": "Sam. 21",
@@ -47,7 +36,7 @@
         "tmin": 25,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 28,
+        "wind": 24,
         "rain": 75
       },
       {
@@ -58,23 +47,34 @@
         "tmin": 24,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 30,
-        "rain": 55
+        "wind": 27,
+        "rain": 63
+      },
+      {
+        "date": "2026-11-23",
+        "label": "Lun. 23",
+        "full_label": "Lundi 23 novembre",
+        "tmax": 28,
+        "tmin": 24,
+        "icon": "⛈",
+        "condition": "Orage",
+        "wind": 32,
+        "rain": 58
       }
     ]
   },
   "marine": {
     "wave": 1.2,
-    "period": 7,
-    "direction": "E",
-    "water": 30,
+    "period": 8,
+    "direction": "NE",
+    "water": 29,
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 4,
+    "iqa": 5,
     "label": "Bon",
-    "pm25": 4.5,
-    "pm10": 7.5,
+    "pm25": 5.2,
+    "pm10": 8.8,
     "ozone": 51.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",

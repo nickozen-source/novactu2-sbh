@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-22T13:39:21-04:00",
+  "generated_at": "2026-11-23T17:55:10-04:00",
   "coordinates": {
     "latitude": 17.9,
     "longitude": -62.83
   },
   "dates": {
-    "long": "Dimanche 22 novembre 2026",
-    "short": "22 novembre 2026",
-    "day0": "Dimanche 22 novembre",
-    "day1": "Lun. 23",
-    "day2": "Mar. 24",
-    "iso": "2026-11-22T13:39:21-04:00"
+    "long": "Lundi 23 novembre 2026",
+    "short": "23 novembre 2026",
+    "day0": "Lundi 23 novembre",
+    "day1": "Mar. 24",
+    "day2": "Mer. 25",
+    "iso": "2026-11-23T17:55:10-04:00"
   },
   "sources": [
     "Open-Meteo Forecast API",
@@ -20,25 +20,14 @@
   ],
   "weather": {
     "temp": 28,
-    "humidity": 73,
-    "wind": 25,
+    "humidity": 75,
+    "wind": 26,
     "wind_dir": "E",
-    "icon": "🌦",
-    "condition": "Pluie possible",
-    "sunrise": "06:20",
+    "icon": "⛅",
+    "condition": "Partiellement nuageux",
+    "sunrise": "06:21",
     "sunset": "17:33",
     "days": [
-      {
-        "date": "2026-11-22",
-        "label": "Dim. 22",
-        "full_label": "Dimanche 22 novembre",
-        "tmax": 28,
-        "tmin": 26,
-        "icon": "🌦",
-        "condition": "Pluie possible",
-        "wind": 31,
-        "rain": 51
-      },
       {
         "date": "2026-11-23",
         "label": "Lun. 23",
@@ -47,8 +36,8 @@
         "tmin": 25,
         "icon": "⛈",
         "condition": "Orage",
-        "wind": 29,
-        "rain": 53
+        "wind": 30,
+        "rain": 66
       },
       {
         "date": "2026-11-24",
@@ -58,8 +47,19 @@
         "tmin": 26,
         "icon": "🌦",
         "condition": "Pluie possible",
-        "wind": 29,
-        "rain": 63
+        "wind": 33,
+        "rain": 71
+      },
+      {
+        "date": "2026-11-25",
+        "label": "Mer. 25",
+        "full_label": "Mercredi 25 novembre",
+        "tmax": 28,
+        "tmin": 27,
+        "icon": "🌦",
+        "condition": "Pluie possible",
+        "wind": 32,
+        "rain": 40
       }
     ]
   },
@@ -71,11 +71,11 @@
     "level": "Tous niveaux"
   },
   "air": {
-    "iqa": 5,
+    "iqa": 3,
     "label": "Bon",
-    "pm25": 5.3,
-    "pm10": 8.9,
-    "ozone": 47.0,
+    "pm25": 3.4,
+    "pm10": 5.8,
+    "ozone": 45.0,
     "dust": 0.0,
     "haze": "Aucun épisode détecté",
     "advice": "Activités extérieures libres. Idéal pour le sport et la plage."
